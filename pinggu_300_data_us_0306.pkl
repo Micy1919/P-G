@@ -26,15 +26,15 @@ p13
 asS'xianshang_supervised_keywords'
 p14
 (lp15
-Vkyle busch
+Vjoei logano
 p16
-aVjoei logano
-p17
 aVchampionship
+p17
+aVkyle busch
 p18
-aVelimin race
+aVrace
 p19
-aVmatt kenseth
+aVovertim
 p20
 asS'title'
 p21
@@ -65,13 +65,13 @@ asg14
 (lp33
 Vdonald trump
 p34
-aVrussel moor
-p35
-aVreligi liberti
-p36
 aVsouthern baptist
+p35
+aVrussel moor
+p36
+aVoffend
 p37
-aVlibertarian
+aVnativist
 p38
 asg21
 VTrump Trashes Southern Baptists
@@ -99,15 +99,15 @@ aVtax evas
 p49
 asg14
 (lp50
-Vfbi
+Vbill clinton
 p51
-aVwire fraud
+aVfbi
 p52
-aVfoia
+aVpresidenti pardon
 p53
-aVclinton
+aVfoia request
 p54
-aVpardon
+aVtax evas
 p55
 asg21
 VWaitCA Presidential Pardon Issued By Bill Clinton Might Have Been Influenced By Cash?
@@ -135,15 +135,15 @@ aVsaturdai
 p66
 asg14
 (lp67
-Vfacebook inc
+Vmark zuckerberg
 p68
-aVmark zuckerberg
+aVfacebook inc
 p69
-aVsocial media
-p70
 aVfake new
+p70
+aVsocial media
 p71
-aVmisinform
+aVsaturdai
 p72
 asg21
 VMark Zuckerberg Continues to Defend Facebook Against Criticism It May Have Swayed Election
@@ -173,13 +173,13 @@ asg14
 (lp84
 Vwedd ring
 p85
-aVwarn sign
-p86
 aVsubstanc abus
-p87
+p86
 aVmarriag
+p87
+aVwarn sign
 p88
-aVdivorc
+aVmarri
 p89
 asg21
 VIn-laws reveal the moment they knew their kid's marriage was doomed
@@ -207,15 +207,15 @@ aVcomment
 p100
 asg14
 (lp101
-Vcameraman
+Vprotest
 p102
-aVprotest
+aVcnn cameraman
 p103
-aVcomment
+aVtotal meltdown
 p104
 aVdon lemon
 p105
-aVmeltdown
+aVcomment
 p106
 asg21
 VWTH? Leftist Protester Going Nuts On CNN Over Hillary Loss WAS A CNN CAMERAMAN? (VIDEO)
@@ -243,15 +243,15 @@ aVlujan
 p117
 asg14
 (lp118
-Vprison system
+Vreligion
 p119
-aVcorrect
+aVprison system
 p120
-aVsenior chaplain
+aVpractic
 p121
-aVreligion
+aVsenior chaplain
 p122
-aVinmat
+aVsatanist
 p123
 asg21
 VSatanist inmate: prison officials prohibited me from practicing my religion
@@ -283,11 +283,11 @@ Vdonald trump
 p136
 aVflorian philippot
 p137
-aVleadership
+aVamerica
 p138
-aVworld war
+aVleadership
 p139
-aVwednesdai
+aVworld war
 p140
 asg21
 VAmerica will not be at the heart of a new world order
@@ -317,13 +317,13 @@ asg14
 (lp152
 Vanim cruelti
 p153
-aVrspca
+aVdeliber
 p154
-aVmilli
-p155
 aVanim welfar
+p155
+aVpregnant cat
 p156
-aVbirth
+aVnearli lost
 p157
 asg21
 VAwful injuries of pregnant cat Milly who was deliberately set on fire
@@ -355,11 +355,11 @@ Vdonald trump
 p170
 aVhillari clinton
 p171
-aVlanguag
+aVdemi lovato
 p172
-aVjai
+aVlanguag
 p173
-aVlena dunham
+aVinsult
 p174
 asg21
 VDonald Trump Just Came for Beyonc and Jay Z
@@ -389,11 +389,11 @@ asg14
 (lp186
 Vwwe
 p187
-aVseth rollin
+aVmondai night
 p188
 aVsurvivor seri
 p189
-aVmondai night
+aVpreview
 p190
 aVtag team
 p191
@@ -423,15 +423,15 @@ aVpayment
 p202
 asg14
 (lp203
-Vpayment
+Vbui
 p204
-aVcredit score
-p205
 aVstudent loan
+p205
+aVcredit score
 p206
 aVafford
 p207
-aVhome
+aVpayment
 p208
 asg21
 VThe No. 1 sign you can't afford to buy a home
@@ -461,13 +461,13 @@ asg14
 (lp220
 Vfriend
 p221
-aVcheltenham guardian
+aVcheltenham
 p222
-aVname emili
+aVabandon
 p223
-aVhour care
+aVguardian
 p224
-aVwoman name
+aVemili
 p225
 asg21
 VVolunteers slam friends of a drunken young woman left abandoned
@@ -495,15 +495,15 @@ aVavoid jail
 p236
 asg14
 (lp237
-Vxan fraser
+Vsexual assault
 p238
-aVviolent gang
-p239
 aVgang rape
+p239
+aVteenag boi
 p240
-aVsexual assault
+aVavoid jail
 p241
-aVconscious
+aVviolent gang
 p242
 asg21
 VWoman raped by three boys when she was 12 reveals they avoided jail
@@ -533,11 +533,11 @@ asg14
 (lp254
 Vjacquelin laurita
 p255
-aVreal housew
+aVteresa giudic
 p256
 aVmelissa gorga
 p257
-aVteresa giudic
+aVreal housew
 p258
 aVreunion
 p259
@@ -569,13 +569,13 @@ asg14
 (lp271
 Vmegyn kelli
 p272
-aVroger ail
+aVrupert murdoch
 p273
 aVsexual harass
 p274
 aVfox
 p275
-aVgretchen carlson
+aVroger ail
 p276
 asg21
 VMegyn Kelly revealed to Rupert Murdoch that Roger Ailes was a predator
@@ -607,7 +607,7 @@ Vbarack obama
 p289
 aVdonald trump
 p290
-aVparenthood
+aVplann parenthood
 p291
 aVbirth control
 p292
@@ -639,15 +639,15 @@ aVcolombian
 p304
 asg14
 (lp305
-Vsocial media
+Vshakira
 p306
-aVshakira
-p307
-aVgerard piqu
-p308
 aVperson matter
+p307
+aVsocial media
+p308
+aVcolombian
 p309
-aVmicrosoft theater
+aVmicrosoft
 p310
 asg21
 VShakira cancels 2 gigs due to personal matters
@@ -681,9 +681,9 @@ aVattempt murder
 p324
 aVstab wound
 p325
-aVpolic
-p326
 aVsuspicion
+p326
+aVarrest
 p327
 asg21
 V1 killed, 1 wounded in North Hollywood stabbing
@@ -711,15 +711,15 @@ aVnov
 p338
 asg14
 (lp339
-Vnasa
+Vsupermoon
 p340
-aVclosest
+aVnasa
 p341
-aVorbit
+aVlargest moon
 p342
-aVastronom
+aVbeaver moon
 p343
-aVmoon
+aVspace com
 p344
 asg21
 VNov. supermoon: When and where to see the largest moon since 1948
@@ -747,15 +747,15 @@ aVmirror
 p355
 asg14
 (lp356
-Vdonald trump
+Vfbi director
 p357
-aVfbi director
+aVdonald trump
 p358
-aVcampaign
+aVcampaign manag
 p359
-aVkellyanne conwai
-p360
 aVclinton
+p360
+aVblame
 p361
 asg21
 VTrump campaign manager: Clinton should perhaps 'look in the mirror' before blaming FBI director for loss
@@ -785,13 +785,13 @@ asg14
 (lp373
 Vdonald trump
 p374
-aVtrump tower
-p375
 aVelect presid
+p375
+aVtrump tower
 p376
-aVwhite american
+aVlose conscious
 p377
-aVwhite hous
+aVsouth carolina
 p378
 asg21
 VTrump Stands Down Less Than 24 Hours After Being Elected President
@@ -821,13 +821,13 @@ asg14
 (lp390
 Vkathleen zellner
 p391
-aVchestnut
-p392
 aVsteven averi
+p392
+aVevid
 p393
 aVmotion
 p394
-aVwheel
+aVunless youv
 p395
 asg21
 VNew tests are finally being done on evidence from the #MakingAMurderer case
@@ -858,11 +858,11 @@ Vdonald trump
 p407
 aVpresidenti campaign
 p408
-aVprimari
+aVelect
 p409
 aVclinton
 p410
-aVpresid elect
+aVnorth carolina
 p411
 asg21
 VUS Election 2016 Results: Five reasons Donald Trump won
@@ -890,15 +890,15 @@ aVpower earthquak
 p422
 asg14
 (lp423
-Vchristchurch
+Vpopul center
 p424
-aVtsunami
+aVmajor earthquak
 p425
-aVpopul center
+aVchristchurch
 p426
-aVpower earthquak
+aVtsunami
 p427
-aVquak
+aVpower earthquak
 p428
 asg21
 VNew Zealand struck by major earthquake, warns of possible tsunami
@@ -926,13 +926,13 @@ aVmississippi rebel
 p439
 asg14
 (lp440
-Vkyle field
+Vcolleg footbal
 p441
-aVcolleg station
+aVol miss
 p442
 aVmississippi rebel
 p443
-aVcolleg footbal
+aVkyle field
 p444
 aVrank
 p445
@@ -962,15 +962,15 @@ aVsmackdown
 p456
 asg14
 (lp457
-Vsurvivor seri
+Vbrock lesnar
 p458
-aVbrock lesnar
+aVsurvivor seri
 p459
 aVmondai night
 p460
 aVsmackdown
 p461
-aVtuesdai night
+aVgoldberg
 p462
 asg21
 VWWE News, Spoilers: Goldberg And Brock Lesnar Finally Come Face-To-Face On Raw Go-Home Show For Survivor Series
@@ -1000,13 +1000,13 @@ asg14
 (lp474
 Vdonald trump
 p475
-aVroad rage
-p476
 aVwhite driver
+p476
+aVroad rage
 p477
-aVproof
+aVelect dai
 p478
-aVmatter
+aVracist
 p479
 asg21
 VThis Donald Trump supporter's racist and sexist rant shows exactly what's at stake on Election Day
@@ -1033,15 +1033,15 @@ aValien
 p489
 asg14
 (lp490
-Vedgar mitchel
+Vapollo 14
 p491
-aValien
+aVedgar mitchel
 p492
-aVnasa
-p493
-aVapollo 14
-p494
 aVastronaut
+p493
+aValien
+p494
+aVnasa
 p495
 asg21
 VApollo 14 astronaut claims aliens HAVE made contact - but it has been covered up for 60 years
@@ -1069,15 +1069,15 @@ aVrepresent
 p506
 asg14
 (lp507
-Vextremist
+Vunderground
 p508
-aVsecur forc
+aVextremist
 p509
-aVprison
+aVrepresent
 p510
-aVprovinc
+aVprison
 p511
-aVprovinci council
+aVprovinc
 p512
 asg21
 VUnderground ISIS prison containing 1000 inmates found in Nineveh
@@ -1107,13 +1107,13 @@ asg14
 (lp524
 Vjanet jackson
 p525
-aVromanc novel
-p526
 aVjame debarg
+p526
+aVsecret daughter
 p527
 aVrebbi jackson
 p528
-aVdaughter
+aVromanc novel
 p529
 asg21
 VJacksons secret daughter raises questions
@@ -1141,15 +1141,15 @@ aVshame
 p540
 asg14
 (lp541
-Vbrad pitt
+Vjennif aniston
 p542
-aVjennif aniston
-p543
 aVjustin theroux
+p543
+aVbrad pitt
 p544
-aVdivorc
-p545
 aVchildless
+p545
+aVbombshel
 p546
 asg21
 VJennifer Aniston Drops Bombshell About Brad Pitt Divorce: Did Justin Theroux Issue Warning?
@@ -1181,11 +1181,11 @@ Vfourth quarter
 p559
 aVoperat incom
 p560
-aVfulfil center
+aVamazon
 p561
-aVrevenu
+aVfulfil center
 p562
-aVinvestor
+aVrevenu
 p563
 asg21
 VWhy Amazon Might Not Report Any Profit Next Quarter -- The Motley Fool
@@ -1215,13 +1215,13 @@ asg14
 (lp575
 Vdonald trump
 p576
-aVracism
+aVblack american
 p577
-aVbigotri
+aVpresidenti administr
 p578
-aVslaveri
+aVsurviv
 p579
-aVblack
+aVamerica
 p580
 asg21
 VHow Black Americans will survive the Donald Trump presidential administration
@@ -1253,11 +1253,11 @@ Velizabeth warren
 p593
 aVbarack obama
 p594
-aVfinanci crisi
+aVpresid obama
 p595
-aVreferr
+aVcrimin
 p596
-aVpresid barack
+aVreferr
 p597
 asg21
 VElizabeth Warren Demands Investigation Into President Obamas Failure to Jail the Banksters
@@ -1286,13 +1286,13 @@ asg14
 (lp608
 Vafrican american
 p609
-aVcommun
+aVobama
 p610
-aVpresidenti elect
-p611
 aVblack peopl
+p611
+aVblack american
 p612
-aVtrump
+aVcommun
 p613
 asg21
 VObama's People And The African Americans: Using The Language Of Othering
@@ -1320,15 +1320,15 @@ aVdiet reduc
 p624
 asg14
 (lp625
-Valzheim
+Vscientist
 p626
-aVmediterranean diet
+aVdiet reduc
 p627
-aVanim nutrit
+aVreduc alzheim
 p628
-aVeat
+aValzheim risk
 p629
-aVhypertension
+aVnutrit
 p630
 asg21
 VScientists Say This Diet Reduces Alzheimers Risk By 53 Percent
@@ -1358,13 +1358,13 @@ asg14
 (lp642
 Vheart attack
 p643
-aVcardiolog
+aVcardiologist
 p644
 aVchest pain
 p645
-aVheart diseas
+aVcardiolog
 p646
-aVmedic expert
+aVheart diseas
 p647
 asg21
 VA Cardiologist's Tips for Not Dying of a Heart Attack
@@ -1396,9 +1396,9 @@ Vconvict
 p660
 aVsexual assault
 p661
-aVsentenc
+aVappeal court
 p662
-aVcourt
+aVlife sentenc
 p663
 aVprison
 p664
@@ -1430,13 +1430,13 @@ asg14
 (lp676
 Vsocial media
 p677
-aVdaughter
+aVfacebook page
 p678
-aVphoto
+aVdaughter
 p679
 aVstranger
 p680
-aVfacebook
+aVphoto
 p681
 asg21
 VMom Finds Photos Of Daughter On Strangers Facebook Page, Then Notices He Claims To Be The Dad
@@ -1466,13 +1466,13 @@ asg14
 (lp693
 Vskeleton
 p694
-aVcondit
-p695
 aVacromegali
+p695
+aVcemeteri
 p696
-aVwoman
+aVopposit direct
 p697
-aVpituitari gland
+aVgiantess
 p698
 asg21
 VMedieval GIANTESS found in a Polish cemetery
@@ -1500,15 +1500,15 @@ aVlandlord
 p709
 asg14
 (lp710
-Vonlin forum
+Vwash machin
 p711
-aVwash machin
-p712
-aVlandlord
-p713
 aVtenant
+p712
+aVonlin forum
+p713
+aVlandlord
 p714
-aVstrang experi
+aVlegal action
 p715
 asg21
 VReddit landlords reveal their tenants from HELL
@@ -1540,9 +1540,9 @@ Vdonald trump
 p728
 aVpublic stunt
 p729
-aVallan lichtman
-p730
 aVnate silver
+p730
+aVallan lichtman
 p731
 aValternet
 p732
@@ -1574,13 +1574,13 @@ asg14
 (lp744
 Vdonald trump
 p745
-aVelector vote
-p746
-aVtomorrow
-p747
 aVu003cquot text
+p746
+aVwrote
+p747
+aVelector vote
 p748
-aVobama
+aVtomorrow
 p749
 asg21
 VTo All Fools Voting For Trump
@@ -1614,9 +1614,9 @@ aVfilm soundtrack
 p763
 aVabstract film
 p764
-aVjesu walk
+aValbum
 p765
-aVastrolog
+aVkanye
 p766
 asg21
 VFKA twigs on her next album, film and fave Kanye track
@@ -1648,11 +1648,11 @@ Vquarterback
 p779
 aVtrevor siemian
 p780
-aVbrock osweil
+aVbronco
 p781
 aVnfl
 p782
-aVdenver bronco
+aVbrock osweil
 p783
 asg21
 VBroncos' Siemian earns midseason captainship, criticism
@@ -1682,13 +1682,13 @@ asg14
 (lp795
 Vbella hadid
 p796
-aVtrend
-p797
-aVblack belt
-p798
-aVsweatpant
-p799
 aVslip dress
+p797
+aVsweatpant
+p798
+aVblack belt
+p799
+aVtrend
 p800
 asg21
 VBella Hadid Makes A Compelling Case For The Belted Slip Dress
@@ -1716,15 +1716,15 @@ aVamerican women
 p811
 asg14
 (lp812
-Vracism
+Vtrump
 p813
-aVmisanthrop
+aVmisogyni
 p814
-aVtrump
+aVvote
 p815
-aVneighborhood
+aVcode languag
 p816
-aVxenophob
+aVamerican women
 p817
 asg21
 VYou Voted For Trump? I Have Only One Plea.
@@ -1754,13 +1754,13 @@ asg14
 (lp829
 Vsugar
 p830
-aVenergi
+aVenergi level
 p831
-aVfood
+aVhealth issu
 p832
-aVtast
+aVlow energi
 p833
-aVdrink
+aVdelici
 p834
 asg21
 VI Cut Out Sugar for 2 WeeksHeres What Happened (and What Didnt)
@@ -1788,15 +1788,15 @@ aVboyfriend
 p845
 asg14
 (lp846
-Vkalei cuoco
+Vbang theori
 p847
-aVbang theori
+aVkalei cuoco
 p848
-aVseason 10
-p849
-aVcontroversi
-p850
 aVbdsm scene
+p849
+aVseason 10
+p850
+aVcontroversi
 p851
 asg21
 V'The Big Bang Theory' Kaley Cuoco Leaving? BDSM Scene Last Straw For Jealous Boyfriend?
@@ -1824,15 +1824,15 @@ aVeastern mediterranean
 p862
 asg14
 (lp863
-Vaircraft carrier
+Vrussian warship
 p864
-aVadmir kuznetsov
+aVaircraft carrier
 p865
-aVeastern mediterranean
-p866
-aVrussian warship
-p867
 aVsyrian coast
+p866
+aVmilitari
+p867
+aVflotilla
 p868
 asg21
 VRussian warship flotilla now off Syrian coast: military
@@ -1860,15 +1860,15 @@ aVjerusalem
 p879
 asg14
 (lp880
-Vnorthern branch
+Vhunger strike
 p881
-aVislam movement
+aVsentenc
 p882
-aVhunger strike
+aVislam movement
 p883
-aVjerusalem
-p884
 aVisrael
+p884
+aVnorthern branch
 p885
 asg21
 VImprisoned Islamist leader threatens hunger strike
@@ -1896,15 +1896,15 @@ aVjogger
 p896
 asg14
 (lp897
-Vgerster
+Vbill clinton
 p898
-aVbill clinton
+aVsocial media
 p899
 aVhillari
 p900
-aVsocial media
+aVrandomli
 p901
-aVloser
+aVgetti imag
 p902
 asg21
 VNotice Anything Strange About Pic of Hillary Hiking in the Woods Day After Election? We Sure Did
@@ -1934,13 +1934,13 @@ asg14
 (lp914
 Vbowel movement
 p915
-aVgastroenterologist
-p916
 aVstool
+p916
+aVceliac diseas
 p917
-aVstomach
+aVgastroenterologist
 p918
-aVpoop
+aVstomach
 p919
 asg21
 V11 Things Your Bowel Movements Can Reveal About Your Health
@@ -1972,11 +1972,11 @@ Vmark cuban
 p932
 aVdonald trump
 p933
-aVpresid elect
+aVchanc
 p934
-aV2016 presidenti
+aVrespond
 p935
-aVwednesdai morn
+aVwrote
 p936
 asg21
 VMark Cuban responds to Trump being elected president: 'We all need to give' him 'a chance'
@@ -2004,15 +2004,15 @@ aVbryan cranston
 p947
 asg14
 (lp948
-Vtrump
+Vtrump won
 p949
-aVcelebr
-p950
-aVmultimillionair
-p951
-aVthreat
-p952
 aVpresidenti elect
+p950
+aVbryan cranston
+p951
+aVcelebr
+p952
+aVthreaten
 p953
 asg21
 VThese Celebrities 'Threatened' to Leave if Trump Won...Now Look What They're Saying
@@ -2044,11 +2044,11 @@ Vbella hadid
 p966
 aVweight loss
 p967
-aVyolanda foster
+aVdiet
 p968
 aVvictoria secret
 p969
-aVinstagram
+aVyolanda foster
 p970
 asg21
 VBella Hadid Diet: Here's Her Weight Loss Secret
@@ -2082,9 +2082,9 @@ aVfeder prison
 p984
 aVinmat
 p985
-aVcocain
+aVleavenworth
 p986
-aVmarshal
+aVfridai night
 p987
 asg21
 VInmate walks away from federal prison camp in Leavenworth
@@ -2114,13 +2114,13 @@ asg14
 (lp999
 Vvladimir putin
 p1000
-aVprime minist
-p1001
-aVcountri presid
-p1002
-aV2008 presidenti
-p1003
 aVnet worth
+p1001
+aVrussia
+p1002
+aVprime minist
+p1003
+aV2008 presidenti
 p1004
 asg21
 VVladimir Putin Net Worth
@@ -2150,13 +2150,13 @@ asg14
 (lp1016
 Vlittl girl
 p1017
-aVchild
+aVdiscoveri
 p1018
-aVemili
+aVparent
 p1019
 aVvern
 p1020
-aVpregnant
+aVemili
 p1021
 asg21
 VParents Adopt Little Girl From Ukraine, Only To Make An Unexpected Discovery
@@ -2186,13 +2186,13 @@ asg14
 (lp1033
 Vdonald trump
 p1034
-aVdivorc
-p1035
-aVmelania knauss
-p1036
 aVmelania trump
+p1035
+aVdivorc presid
+p1036
+aVronald reagan
 p1037
-aVmarriag
+aVtradit marriag
 p1038
 asg21
 VThere's Only Been One Other Divorced President In History Before Trump
@@ -2222,13 +2222,13 @@ asg14
 (lp1050
 Vseth peterson
 p1051
-aVtwin brother
-p1052
-aVsundai morn
-p1053
 aVbirth certif
+p1052
+aVtwin brother
+p1053
+aVsundai morn
 p1054
-aVwest barnstabl
+aVborn
 p1055
 asg21
 VRare Time Paradox Makes These Twins Both Older Than Each Other
@@ -2256,15 +2256,15 @@ aVpardon
 p1066
 asg14
 (lp1067
-Vmarcu garvei
+Vnelson mandela
 p1068
-aVmartin luther
+aVmarcu garvei
 p1069
-aVluther king
+aVmartin luther
 p1070
-aVnelson mandela
+aVluther king
 p1071
-aVphilosophi
+aVpardon
 p1072
 asg21
 VBefore he leaves office, Obama should pardon the activist who inspired King, Malcolm X and Mandela
@@ -2294,13 +2294,13 @@ asg14
 (lp1084
 Vhillari clinton
 p1085
-aVelector vote
+aVtim kain
 p1086
-aVwednesdai
+aVhistori maker
 p1087
-aVpersever
+aVwednesdai morn
 p1088
-aVwilliam faulkner
+aVpersever
 p1089
 asg21
 VTim Kaine Echoes A Sad Truth About Hillary Clintons Loss
@@ -2327,15 +2327,15 @@ aVtwitter com
 p1099
 asg14
 (lp1100
-Vtwitter com
+Vjennif lopez
 p1101
-aVhttp
-p1102
 aVkim kardashian
-p1103
-aVsocial media
-p1104
+p1102
 aVinstagram
+p1103
+aVtwitter com
+p1104
+aVsocial media
 p1105
 asg21
 VJennifer Lopez Posted a Very Kim Kardashian Selfie
@@ -2363,15 +2363,15 @@ aVdorm
 p1116
 asg14
 (lp1117
-Vinvestig
+Vrape
 p1118
-aVjoseph pitt
+aVteenag girl
 p1119
-aVrape
+aVjoseph pitt
 p1120
-aVvictim
+aVstudent
 p1121
-aVconscious
+aVdorm
 p1122
 asg21
 VUniversity of Alabama student arrested for raping teen girl in dorm room
@@ -2403,9 +2403,9 @@ Vdonald trump
 p1135
 aVpresidenti elect
 p1136
-aV2016 presidenti
+aVhillari clinton
 p1137
-aVclinton
+aV2016 presidenti
 p1138
 aVballot
 p1139
@@ -2439,9 +2439,9 @@ Vgirl
 p1152
 aVfacebook
 p1153
-aVshoulder
+aVjone
 p1154
-aVtoddler
+aVstreet cry
 p1155
 aVparent
 p1156
@@ -2473,13 +2473,13 @@ asg14
 (lp1168
 Vpaul ryan
 p1169
-aVjake tapper
-p1170
 aVdonald trump
+p1170
+aVjake tapper
 p1171
-aVelect victori
-p1172
 aVrepublican
+p1172
+aVvictori
 p1173
 asg21
 VWe Are the Party of Lincoln: Paul Ryan Claims Racist Incidents Post-Election Arent By Republicans
@@ -2509,13 +2509,13 @@ asg14
 (lp1185
 Vdonald trump
 p1186
-aVcampaign
+aVwhite hous
 p1187
-aVreinc priebu
+aVcampaign
 p1188
 aVrepublican parti
 p1189
-aVchief strategist
+aVstaff
 p1190
 asg21
 VTrump picks Priebus as White House chief of staff, Bannon as top adviser
@@ -2544,13 +2544,13 @@ asg14
 (lp1201
 Vdak prescott
 p1202
-aVstart quarterback
+aVquestion
 p1203
-aVdalla cowboi
+aVstart quarterback
 p1204
-aVcleveland
-p1205
 aVjason garrett
+p1205
+aVdalla cowboi
 p1206
 asg21
 VOnly one question left for Cowboys and Dak Prescott to answer
@@ -2578,15 +2578,15 @@ aVsprint cup
 p1217
 asg14
 (lp1218
-Vmatt kenseth
+Vnascar
 p1219
-aVkyle busch
+aVmatt kenseth
 p1220
-aVtalladega superspeedwai
+aVkyle busch
 p1221
-aVdriver
+aVtalladega
 p1222
-aVdenni hamlin
+aVdriver
 p1223
 asg21
 VNASCAR reviewing Gibbs Racing tactic at Talladega
@@ -2618,11 +2618,11 @@ Vdonald trump
 p1236
 aVmenstrual period
 p1237
-aVclimat chang
+aVdemagogueri
 p1238
-aVamerican soldier
+aVgrievanc
 p1239
-aVrapist
+aVgenuin
 p1240
 asg21
 VThis Isn't About Genuine Working Class Grievances. This Is The Triumph Of Demagoguery.
@@ -2650,15 +2650,15 @@ aVangi
 p1251
 asg14
 (lp1252
-Vcloset
+Vterrifi
 p1253
-aVpolic dispatch
+aVsecret code
 p1254
 aVdoyin
 p1255
-aVrealiz
+aVcloset
 p1256
-aVangi
+aVpolic dispatch
 p1257
 asg21
 V911 Operator Takes Call From Terrified Teen And Hears Her Tapping On The Phone In Secret Code
@@ -2690,11 +2690,11 @@ Vprinc william
 p1270
 aVkate middleton
 p1271
-aVprincess diana
+aVsparkler
 p1272
-aVjewelri
+aVprincess diana
 p1273
-aVmarriag
+aVjewelri
 p1274
 asg21
 VThe Simple Reason Prince William Doesn't Wear a Wedding Ring
@@ -2722,15 +2722,15 @@ aVcharg
 p1285
 asg14
 (lp1286
-Vwilliam hillman
+Vdegre murder
 p1287
-aVchristian william
+aVwilliam hillman
 p1288
-aVdegre murder
+aVroad rage
 p1289
-aVassault
+aVchristian william
 p1290
-aVmurder charg
+aVcharg
 p1291
 asg21
 V18-year-old charged with murder in road-rage beating
@@ -2766,7 +2766,7 @@ aVghost
 p1306
 aVteaser
 p1307
-aVsuit
+aVinvis
 p1308
 asg21
 VScarlett Johansson goes invisible in 'Ghost in the Shell' teaser
@@ -2794,15 +2794,15 @@ aVhoop earr
 p1319
 asg14
 (lp1320
-Vhelper
+Vnetherland
 p1321
-aVnetherland
+aVhelper
 p1322
-aVblackfac
+aVbright red
 p1323
-aVlip
+aVchildren
 p1324
-aVchimnei
+aVchristma
 p1325
 asg21
 VThe Netherlands Is Arguing About Whether It Should Use BLACK FACE At Christmas
@@ -2831,13 +2831,13 @@ asg14
 (lp1336
 Vdonald trump
 p1337
-aVpresidenti elect
-p1338
 aV2016 presidenti
+p1338
+aVhistori
 p1339
-aVrepublican
+aVpresidenti elect
 p1340
-aVclinton
+aVwhite
 p1341
 asg21
 VWhite rage against the machine: President-elect Donald Trump is a historical shock  unless you study American history
@@ -2866,13 +2866,13 @@ asg14
 (lp1352
 Vbrian fallon
 p1353
-aVkellyanne conwai
+aVliber media
 p1354
-aVdonald trump
+aVkellyanne conwai
 p1355
-aVtwitter
+aVtrump
 p1356
-aVbattleground
+aVclinton
 p1357
 asg21
 VHow dare she talk about winning! Liberal media thinks Kellyanne is 'rubbing it in' and they are losing it
@@ -2900,15 +2900,15 @@ aVfighter aircraft
 p1368
 asg14
 (lp1369
-Vfighter jet
+Vstealth fighter
 p1370
-aVstealth fighter
+aVfighter jet
 p1371
-aVtechnolog
+aVchina counterfeit
 p1372
-aVfighter aircraft
-p1373
 aVstrike fighter
+p1373
+aVcounterfeit fighter
 p1374
 asg21
 VThe J-20: Chinas counterfeit-fighter that could still mean trouble
@@ -2938,13 +2938,13 @@ asg14
 (lp1386
 Vdemi lovato
 p1387
-aVinstagram
+aVmoment
 p1388
 aVimag sourc
 p1389
-aVgetti
+aVconfid album
 p1390
-aVbillboard
+aVstella mccartnei
 p1391
 asg21
 V32 Moments That Prove 2016 Was the Year of Demi Lovato
@@ -2974,13 +2974,13 @@ asg14
 (lp1403
 Vdonald trump
 p1404
-aVpresid obama
+aVphotoshop
 p1405
-aVinterrupt
+aVpresid obama
 p1406
-aVleadership
+aVinterrupt
 p1407
-aVpresid elect
+aVawkward
 p1408
 asg21
 VThe 20 Best And Funniest Photoshops From That Awkward AF Meeting Between Obama And Trump
@@ -3014,9 +3014,9 @@ aVbillboard
 p1422
 aVbirth name
 p1423
-aVlauren
+aVpremier
 p1424
-aVcharact
+aVvisual
 p1425
 asg21
 VKeke Palmer Releases Full Visual EP Lauren C Listen Now!
@@ -3046,13 +3046,13 @@ asg14
 (lp1437
 Vpaulina gretzki
 p1438
-aVcertainti
+aVskin tight
 p1439
-aVbro trip
+aVtighter
 p1440
-aVvideo
+aVcertainti
 p1441
-aVbikini
+aVsore eye
 p1442
 asg21
 VPaulina Gretzky Dancing Around In A Skin Tight Dress Is A Sight For Sore Eyes
@@ -3079,15 +3079,15 @@ aVnevada
 p1452
 asg14
 (lp1453
-Vdonald trump
+Vclinton
 p1454
-aVpoll
+aVdonald trump
 p1455
-aVvote
+aVelector colleg
 p1456
-aVnevada
+aVvote
 p1457
-aVpercentag
+aVnevada
 p1458
 asg21
 VHas Trump Already Lost Nevada?
@@ -3114,15 +3114,15 @@ aVnuditi
 p1468
 asg14
 (lp1469
-Vsocial media
+Vkendal jenner
 p1470
 aVinstagram
 p1471
-aVnuditi
+aVsocial media
 p1472
-aVkendal jenner
+aVnuditi
 p1473
-aVplatform
+aVmedia platform
 p1474
 asg21
 VKendall Jenner #FreestheNipple on Instagram
@@ -3150,13 +3150,13 @@ aVhakeem olajuwon
 p1485
 asg14
 (lp1486
-Vorlando magic
+Vlebron jame
 p1487
 aVchampionship season
 p1488
-aVlebron jame
-p1489
 aVcleveland cavali
+p1489
+aVorlando magic
 p1490
 aVhakeem olajuwon
 p1491
@@ -3186,15 +3186,15 @@ aVwestern australia
 p1502
 asg14
 (lp1503
-Vplate
+Vappropri
 p1504
 aVsouth africa
 p1505
-aVwestern australia
+aVplate
 p1506
-aVcrash
+aVwestern australia
 p1507
-aVcar
+aVcrash
 p1508
 asg21
 VDriver ditches car with most appropriate number plate ever after crash
@@ -3224,13 +3224,13 @@ asg14
 (lp1520
 Vdonald trump
 p1521
-aVhillari clinton
-p1522
-aVtuesdai night
-p1523
 aVpredict
+p1522
+aVprofessor
+p1523
+aVhillari clinton
 p1524
-aVprognost
+aVimpeach
 p1525
 asg21
 VPrediction professor who called Trumps big win also made another forecast: Trump will be impeached
@@ -3257,15 +3257,15 @@ aVbeyonc
 p1535
 asg14
 (lp1536
-Vjai
+Velev
 p1537
-aVsolang knowl
+aVtraumat memori
 p1538
-aVelev
+aVjai
 p1539
-aVstatement
+aVsolang knowl
 p1540
-aVfight
+aVbeyonc
 p1541
 asg21
 VBeyoncs mom sparks traumatic memories with pic of Jay Z and Solange in an elevator
@@ -3295,13 +3295,13 @@ asg14
 (lp1553
 Vcircuit court
 p1554
-aVprison
-p1555
-aVmethamphetamin
-p1556
 aVplead guilti
+p1555
+aVsentenc
+p1556
+aVmethamphetamin
 p1557
-aVmeth
+aVmeth lab
 p1558
 asg21
 VCircuit court: Meth maker sentenced to 3-20 years; 2 others going to prison.
@@ -3329,15 +3329,15 @@ aVmental ill
 p1569
 asg14
 (lp1570
-Vsympathi
+Vschizophrenia
 p1571
-aVschizophrenia
-p1572
-aVsurvivor
-p1573
 aVsuicid
+p1572
+aVsympathi
+p1573
+aVdeath
 p1574
-aVperson
+aVmental ill
 p1575
 asg21
 VMy Sons Suicide
@@ -3371,7 +3371,7 @@ aVhillari clinton
 p1588
 aVcampaign
 p1589
-aVunfortun
+aVmirror
 p1590
 asg21
 VConway tells Clinton to 'look in the mirror after loss
@@ -3398,15 +3398,15 @@ aVpresidenti elect
 p1600
 asg14
 (lp1601
-Vconcess speech
+Vvan jone
 p1602
-aVcorei lewandowski
+aVconcess speech
 p1603
-aVpresidenti elect
-p1604
 aVtrump
+p1604
+aVcorei lewandowski
 p1605
-aVpresid obama
+aVprotest
 p1606
 asg21
 VVan Jones Finally Loses His Patience With A CNN Commentator Who Won't Comprehend The Anti-Trump Protests
@@ -3433,15 +3433,15 @@ aVwelfar recipi
 p1616
 asg14
 (lp1617
-Vpictur id
+Vhillari
 p1618
-aVwelfar recipi
+aVvoter
 p1619
-aVcorrupt
-p1620
 aVmedicin
+p1620
+aVpictur id
 p1621
-aVballot
+aVwelfar recipi
 p1622
 asg21
 VHillary Leads Amoungst Dead Voters
@@ -3468,15 +3468,15 @@ p1632
 ag673
 asg14
 (lp1633
-Vsex symbol
+Vdemi moor
 p1634
-aVcomplexion
+aVsex symbol
 p1635
-aVoui magazin
-p1636
-aVdemi moor
-p1637
 aVeugeni niarcho
+p1636
+aVcomplexion
+p1637
+aVincred
 p1638
 asg21
 VDemi Moore, 53, looks incredibly youthful in chic black LBD
@@ -3504,15 +3504,15 @@ aVdeprav
 p1649
 asg14
 (lp1650
-Vpropaganda
+Vcrucifixion
 p1651
-aVcrucifixion
-p1652
-aVcaptiv
-p1653
-aVdeprav
-p1654
 aVisi
+p1652
+aVdeprav
+p1653
+aVdoom death
+p1654
+aVpropaganda
 p1655
 asg21
 VDoomed death cult ISIS release evil execution video showing public crucifixions
@@ -3542,13 +3542,13 @@ asg14
 (lp1667
 Vlunar surfac
 p1668
-aVmegastructur
-p1669
 aVtycho crater
+p1669
+aValien megastructur
 p1670
-aVstructur
+aVspace war
 p1671
-aVufo
+aVstructur
 p1672
 asg21
 V[VIDEO] Alien Megastructures, UFO bases discovered on Tycho Crater; A space war looms?
@@ -3576,13 +3576,13 @@ aVkarl lagerfeld
 p1683
 asg14
 (lp1684
-Vblac chyna
+Vkendal jenner
 p1685
-aVkendal jenner
+aVblac chyna
 p1686
-aVbabi birth
+aVrob kardashian
 p1687
-aVkardashian
+aVbabi birth
 p1688
 aVkarl lagerfeld
 p1689
@@ -3618,9 +3618,9 @@ aVhillari clinton
 p1703
 aVspecial prosecutor
 p1704
-aVbusinessman
+aVbarack obama
 p1705
-aVjail
+aVdemocrat politician
 p1706
 asg21
 VHillary Clinton To End In Jail, No Pardon According To White House?
@@ -3650,13 +3650,13 @@ asg14
 (lp1718
 Vrobert redford
 p1719
-aVjoan didion
-p1720
 aVgeorg pimentel
+p1720
+aVjoan didion
 p1721
-aVinterview
-p1722
 aVgetti imag
+p1722
+aVact
 p1723
 asg21
 VRobert Redford Is Literally Saying Goodbye to All That to Acting
@@ -3688,11 +3688,11 @@ Vchristian film
 p1736
 aVgod
 p1737
-aVjesu christ
+aVrisen lord
 p1738
-aVglori
+aVjesu christ
 p1739
-aVlive
+aVchrist jesu
 p1740
 asg21
 V3 Things Christians Should Avoid in Order to Live for God's Glory
@@ -3722,13 +3722,13 @@ asg14
 (lp1752
 Vcarol vorderman
 p1753
-aVadvic
+aVpush boundari
 p1754
-aVmother told
+aVfly solo
 p1755
-aVwomen
+aVmother
 p1756
-aVboundari
+aVwomen
 p1757
 asg21
 VWe must teach girls to push boundaries and fly solo like Carol Vorderman
@@ -3756,15 +3756,15 @@ aVhappi
 p1768
 asg14
 (lp1769
-Vrelationship
+Vwrong relationship
 p1770
-aVshouldnt
-p1771
-aVpartner
-p1772
-aVbitch
-p1773
 aVyour
+p1771
+aVshouldnt
+p1772
+aVpartner
+p1773
+aVhappi
 p1774
 asg21
 VYoure in the Wrong Relationship if You Feel These 8 Things
@@ -3792,15 +3792,15 @@ aVinjur
 p1785
 asg14
 (lp1786
-Vvictim
+Vcalifornia
 p1787
-aVpolic
+aVazusa
 p1788
-aVfire inspector
+aVvictim
 p1789
-aVmultipl shoot
+aVinjur
 p1790
-aVhospit
+aVshoot
 p1791
 asg21
 V1 Dead, 3 Injured in Active Shooting Scene Near California Voting Site
@@ -3830,13 +3830,13 @@ asg14
 (lp1803
 Vmiesha tate
 p1804
-aVmma
-p1805
 aVronda rousei
+p1805
+aVmma
 p1806
-aVraquel pennington
+aVufc
 p1807
-aVholli holm
+aVretir
 p1808
 asg21
 VMiesha Tate Announces Retirement, Suggests Ronda Rousey Will Be Next To Leave UFC
@@ -3865,13 +3865,13 @@ asg14
 (lp1819
 Vswimm pool
 p1820
-aVpregnant
-p1821
-aVsocial media
-p1822
 aVstori
+p1821
+aVgett pregnant
+p1822
+aVimpregn
 p1823
-aVwater
+aVsocial media
 p1824
 asg21
 V16 Girls Impregnated By One Boy In A Swimming Pool?
@@ -3899,15 +3899,15 @@ aVborn
 p1835
 asg14
 (lp1836
-Vastrolog
+Vearth sign
 p1837
-aVearth sign
+aVdeep thinker
 p1838
-aVcapricorn
-p1839
-aVintellect
-p1840
 aVexpress emot
+p1839
+aVastrolog 101
+p1840
+aVsun sign
 p1841
 asg21
 VAstrology 101
@@ -3933,15 +3933,15 @@ aVstreet journal
 p1850
 asg14
 (lp1851
-Vdonald trump
+Vhillari clinton
 p1852
-aVpardon
+aVdonald trump
 p1853
-aVhillari clinton
+aVpardon
 p1854
-aVpresidenti debat
-p1855
 aVobama
+p1855
+aVstreet journal
 p1856
 asg21
 VWhy Obama should pardon Hillary Clinton
@@ -3969,13 +3969,13 @@ aVcelebrex
 p1867
 asg14
 (lp1868
-Vpharmaci
+Vpain relief
 p1869
 aVarthriti
 p1870
-aVstomach
+aVibuprofen
 p1871
-aVpain relief
+aVheart
 p1872
 aVcelebrex
 p1873
@@ -4005,13 +4005,13 @@ aVwoman
 p1884
 asg14
 (lp1885
-Vsamuel lockhart
+Vdrug dealer
 p1886
-aVvolusia counti
-p1887
-aVdrug dealer
-p1888
 aVdeputi
+p1887
+aVvolusia counti
+p1888
+aVsamuel lockhart
 p1889
 aVsheriff offic
 p1890
@@ -4047,9 +4047,9 @@ aVdonald trump
 p1904
 aVmichel obama
 p1905
-aVeaster egg
+aVscandal life
 p1906
-aVcar dealership
+aVeaster egg
 p1907
 asg21
 VMelania Trump: 10 fun facts about our new first ladys fabulous, scandalous life
@@ -4083,9 +4083,9 @@ aVsubmarin base
 p1921
 aVnavi
 p1922
-aVconnecticut
+aVcommiss
 p1923
-aVwarfar
+aVattack submarin
 p1924
 asg21
 VUSS Illinois is commissioned
@@ -4113,15 +4113,15 @@ aVcalori
 p1935
 asg14
 (lp1936
-Vholidai
+Veat
 p1937
-aVsugar cooki
+aVdai
 p1938
-aVcalori
+aVholidai
 p1939
-aVpeanut butter
+aVweight gain
 p1940
-aVirresist
+aVcalori
 p1941
 asg21
 VExpert Says to Eat This to Prevent Holiday Weight Gain
@@ -4149,15 +4149,15 @@ aVanna foerster
 p1952
 asg14
 (lp1953
-Vunderworld franchis
+Vkate beckinsal
 p1954
-aVkate beckinsal
-p1955
 aVblood war
+p1955
+aVunderworld franchis
 p1956
-aVtrailer
-p1957
 aVanna foerster
+p1957
+aVtrailer
 p1958
 asg21
 VKate Beckinsale Leads The Pack In A New Underworld: Blood Wars Trailer [Video]
@@ -4189,9 +4189,9 @@ Vdemi lovato
 p1971
 aVluke rockhold
 p1972
-aVconor mcgregor
+aVufc fighter
 p1973
-aVlightweight titl
+aVpop star
 p1974
 aVmadison squar
 p1975
@@ -4223,13 +4223,13 @@ asg14
 (lp1987
 Vdisappear
 p1988
-aVfriend
+aVfound
 p1989
-aVtragic
-p1990
 aVbournemouth
-p1991
+p1990
 aVgrave
+p1991
+aVfriend
 p1992
 asg21
 VGirl, 16, found dead after visiting grave of murdered best friend
@@ -4257,15 +4257,15 @@ aVelimin
 p2003
 asg14
 (lp2004
-Vconstitut amend
+Vgorgeou
 p2005
 aVbalanc budget
 p2006
-aVterm limit
+aVconstitut amend
 p2007
-aV17th amend
+aVelimin
 p2008
-aVincom tax
+aVlandscap
 p2009
 asg21
 VDems 1 State Loss Away from Stopping Const. Amendments
@@ -4293,15 +4293,15 @@ aVlow cut
 p2020
 asg14
 (lp2021
-Vpremier
+Vjanuari jone
 p2022
-aVoutfit
+aVblue velvet
 p2023
-aVjanuari jone
+aVpremier
 p2024
-aVcarpet
+aVpsychological thriller
 p2025
-aVsandal
+aVplung
 p2026
 asg21
 VJanuary Jones Takes the Plunge in a Daring Blue Velvet Suit
@@ -4331,13 +4331,13 @@ asg14
 (lp2038
 Vmiesha tate
 p2039
-aVmma
-p2040
 aVwomen bantamweight
+p2040
+aVufc
 p2041
 aVbantamweight champion
 p2042
-aVsubmiss
+aVmma
 p2043
 asg21
 VMiesha Tate Announces Retirement After UFC 205 Loss
@@ -4364,15 +4364,15 @@ p2053
 ag773
 asg14
 (lp2054
-Vian rapoport
+Vdak prescott
 p2055
-aVdak prescott
-p2056
 aVtoni romo
+p2056
+aVian rapoport
 p2057
-aVquarterback controversi
+aVcowboi quarterback
 p2058
-aVdalla cowboi
+aVcontroversi
 p2059
 asg21
 VTony Romo Reportedly Willing To Be Dak Prescotts Backup; Cowboys Concerned?
@@ -4400,15 +4400,15 @@ aVchildren
 p2070
 asg14
 (lp2071
-Vlivestock trailer
+Vtoi truck
 p2072
-aVpeterbilt
-p2073
-aVchildren toi
-p2074
 aVwalmart
+p2073
+aVlivestock trailer
+p2074
+aVshopper
 p2075
-aVertl
+aV32 peterbilt
 p2076
 asg21
 VShoppers furious with Walmart over toy truck
@@ -4439,11 +4439,11 @@ Vcraigslist
 p2088
 aVwoman
 p2089
-aVtransact
+aVmonei
 p2090
-aVdifficulti
+aVbought
 p2091
-aVdesk
+aVconnecticut
 p2092
 asg21
 VDad Buys Used Desk For $150 On Craigslist, Then He Finds A Hidden Bag Inside
@@ -4471,15 +4471,15 @@ aVfamili tree
 p2103
 asg14
 (lp2104
-Vwolv
+Vmisunderstood
 p2105
-aVhuman
+aVdomesticat dog
 p2106
 aVtotal insan
 p2107
-aVmisunderstood
+aVwolf
 p2108
-aVdomesticat dog
+aVeye contact
 p2109
 asg21
 VA Giant Wolf Plops Down Next To Her. Just Wait Until They Make Eye Contact
@@ -4507,15 +4507,15 @@ aVreserv cancel
 p2120
 asg14
 (lp2121
-Vflight
+Vreserv cancel
 p2122
-aVsnack
+aVworth
 p2123
-aVcharg
+aVflight
 p2124
-aVairlin
-p2125
 aVfee
+p2125
+aVairlin
 p2126
 asg21
 V4 airline fees worth paying
@@ -4543,13 +4543,13 @@ aVcount
 p2137
 asg14
 (lp2138
-Vabsente ballot
+Vpopular vote
 p2139
-aVpopular vote
+aVabsente ballot
 p2140
-aVdonald trump
-p2141
 aVelector colleg
+p2141
+aVdonald trump
 p2142
 aVhillari clinton
 p2143
@@ -4578,15 +4578,15 @@ aVshark
 p2153
 asg14
 (lp2154
-Vshark
+Vscientist
 p2155
-aVscienc fiction
+aVspinal cord
 p2156
-aVdiscoveri
+aVscienc fiction
 p2157
-aVnation geograph
+aVencount
 p2158
-aVconjoin twin
+aVshark
 p2159
 asg21
 VScientists are baffled by how many two-headed sharks they've been encountering
@@ -4613,15 +4613,15 @@ aVsexual penetr
 p2169
 asg14
 (lp2170
-Vsexual penetr
+Vprosecutor
 p2171
-aVprosecutor
+aVcalifornia
 p2172
-aVsexual intercours
-p2173
 aVuber
+p2173
+aVsexual intercours
 p2174
-aVbackseat
+aVsexual penetr
 p2175
 asg21
 VCalifornia Uber driver raped unconscious teenager: prosecutors
@@ -4655,9 +4655,9 @@ aVdonald trump
 p2189
 aVrepublican candid
 p2190
-aVretire
+aVcampaign trail
 p2191
-aVretir
+aVreform
 p2192
 asg21
 VSocial Security: What's Next Now That Trump's Won
@@ -4686,13 +4686,13 @@ asg14
 (lp2203
 Vmelania trump
 p2204
-aVsocial media
-p2205
 aVdonald trump
-p2206
+p2205
 aVinstagram
+p2206
+aVrespect
 p2207
-aVwhite hous
+aVsocial media
 p2208
 asg21
 V"Have some respect": Melania Trump's followers are furious with her latest Instagram move.
@@ -4723,11 +4723,11 @@ Vdonald trump
 p2220
 aVprotest
 p2221
-aVdemonstr
-p2222
-aVsocial media
-p2223
 aVmillennium park
+p2222
+aVdemonstr
+p2223
+aVpresid
 p2224
 asg21
 VU.S. protesters plan fifth day of marches against Trump presidency
@@ -4754,15 +4754,15 @@ aVlose weight
 p2234
 asg14
 (lp2235
-Vcalori
+Vweight loss
 p2236
 aVnutritionist
 p2237
-aVsnack
+aVhealthi snack
 p2238
-aVnutrient
+aVlose weight
 p2239
-aVmetabol
+aVcalori
 p2240
 asg21
 VBest Snacks for Weight Loss
@@ -4794,11 +4794,11 @@ Vhouston
 p2253
 aVgenit
 p2254
-aVdocument
+aVpublic lewd
 p2255
-aVcourt record
+aVwomen
 p2256
-aVwoman
+aVcourt record
 p2257
 asg21
 VHouston man accused of repeatedly grabbing women by the genitals
@@ -4826,15 +4826,15 @@ aVteenag
 p2268
 asg14
 (lp2269
-Vteenag
+Vmarriag ag
 p2270
-aVmarriag ag
+aVmarri
 p2271
-aVconsent
+aVparent consent
 p2272
-aVactress plai
+aVnation popul
 p2273
-aVchild marriag
+aVteenag
 p2274
 asg21
 V16 is a little young to get married, isn't it? Not in N.J.
@@ -4864,13 +4864,13 @@ asg14
 (lp2286
 Vmichel obama
 p2287
-aVpresid
-p2288
 aVspencer platt
+p2288
+aVcampaign
 p2289
-aVpropheci
+aVrun
 p2290
-aVgetti imag
+aVpleas
 p2291
 asg21
 VPeople Are Really Hoping That Michelle Obama Runs For President In 2020
@@ -4898,15 +4898,15 @@ aVhistorian
 p2302
 asg14
 (lp2303
-Vshipwreck
+Vlake superior
 p2304
-aVfreighter
+aVshipwreck
 p2305
-aVlake superior
+aVpreserv
 p2306
-aVdiver
-p2307
 aVhistorian
+p2307
+aVshape
 p2308
 asg21
 V132-Year-Old Lake Superior Shipwreck Found In Beautiful Shape'
@@ -4937,11 +4937,11 @@ Vdonald trump
 p2320
 aVbattleground
 p2321
-aVcampaign
-p2322
-aVnorth carolina
-p2323
 aVclinton
+p2322
+aVcampaign
+p2323
+aVnorth carolina
 p2324
 asg21
 VTrump Out-Campaigned Clinton by 50 Percent in Key Battleground States in Final Stretch
@@ -4969,15 +4969,15 @@ aVschaumburg
 p2335
 asg14
 (lp2336
-Vconvent center
+Vschaumburg
 p2337
-aVcookbook author
+aVsweet tooth
 p2338
-aVrenaiss schaumburg
+aVcookbook author
 p2339
-aVschaumburg hotel
+aVconvent center
 p2340
-aVconfectionari
+aVweekend
 p2341
 asg21
 VWeekend picks: Polish up your sweet tooth for baking show
@@ -5005,15 +5005,15 @@ aVexercis
 p2352
 asg14
 (lp2353
-Vstretch
+Vlower
 p2354
-aVbreath
+aVexercis
 p2355
-aVtechniqu
+aVreliev
 p2356
-aVpain medic
+aVstretch
 p2357
-aVlower
+aVpain
 p2358
 asg21
 VSimple Exercises To Relieve Your Lower Back Pain Every Day
@@ -5041,15 +5041,15 @@ aVwrong reason
 p2369
 asg14
 (lp2370
-Vdonald trump
+Vhillari clinton
 p2371
-aVbill clinton
+aVdonald trump
 p2372
-aVhillari clinton
+aVselfish
 p2373
-aVroger clinton
+aVbill clinton
 p2374
-aVradaronlin
+aVaunt
 p2375
 asg21
 VHillary Clintons niece comes out for TRUMP because 'selfish' aunt wants to win for all the wrong reasons
@@ -5077,15 +5077,15 @@ aVbedroom
 p2386
 asg14
 (lp2387
-Vboulevard
+Vmira vista
 p2388
-aVgolf cours
+aVboulevard
 p2389
-aVmira vista
+aVgolf cours
 p2390
-aVbedroom
+aVreal estat
 p2391
-aVexterior
+aVbedroom
 p2392
 asg21
 VMoore Real Estate
@@ -5113,13 +5113,13 @@ aVtantrum
 p2403
 asg14
 (lp2404
-Vdeath penalti
+Vfive suspect
 p2405
-aVmiami herald
-p2406
 aVjose amaya
+p2406
+aVdeath penalti
 p2407
-aVfive suspect
+aVmachet
 p2408
 aVmurder
 p2409
@@ -5150,13 +5150,13 @@ asg14
 (lp2420
 Vnasa
 p2421
-aVmeteorit
+aVrover
 p2422
 aVlaser
 p2423
-aVcurios rover
-p2424
 aVrock
+p2424
+aVmartian surfac
 p2425
 asg21
 VNasa is firing lasers on MarsHere's why
@@ -5184,15 +5184,15 @@ aVdrown
 p2436
 asg14
 (lp2437
-Vshame
+Vnarcissist
 p2438
-aVnarcissist
+aVshame
 p2439
-aVdysfunctional famili
+aVdrown
 p2440
 aVguilt
 p2441
-aVagoni
+aVwrong
 p2442
 asg21
 VDrowning in Shame
@@ -5222,13 +5222,13 @@ asg14
 (lp2454
 Varchaeologist
 p2455
-aVleon
-p2456
-aVtenant farmer
-p2457
-aVsymbol
-p2458
 aVafrican american
+p2456
+aVmaryland
+p2457
+aVchristian
+p2458
+aVleon
 p2459
 asg21
 VArchaeologists describe how Ezekiel's Wheel helped turn African Americans into Christians
@@ -5258,13 +5258,13 @@ asg14
 (lp2471
 Vfallopian tube
 p2472
-aVintern bleed
-p2473
 aVectop pregnanc
+p2473
+aVintern bleed
 p2474
-aVsadi brittl
-p2475
 aVcaesarean section
+p2475
+aVwomb
 p2476
 asg21
 VThe baby hiding in his mothers womb
@@ -5295,11 +5295,11 @@ Vbella thorn
 p2488
 aVinstagram
 p2489
-aVsocial media
-p2490
-aVyesterdai
-p2491
 aVsnapchat
+p2490
+aVsocial media
+p2491
+aVsexi
 p2492
 asg21
 VEnjoy This GIF Of Bella Thorne Stripping Down To Her Undies
@@ -5333,9 +5333,9 @@ aVdonald trump
 p2506
 aVkellyanne conwai
 p2507
-aVcampaign manag
-p2508
 aVirrespons
+p2508
+aVcampaign manag
 p2509
 asg21
 VAnderson Cooper Tears Into Kellyanne Conway Over Irresponsible Donald Trump (Video)
@@ -5363,13 +5363,13 @@ asg14
 (lp2519
 Vclassifi inform
 p2520
-aVemail system
+aVfbi
 p2521
-aVfbi director
+aVemail
 p2522
-aVhillari clinton
+aVclinton
 p2523
-aVjame comei
+aVanswer
 p2524
 asg21
 VKey lawmaker wants answers from Comey on Clinton email probe
@@ -5396,15 +5396,15 @@ aVinsid
 p2534
 asg14
 (lp2535
-Vbirthdai
+Vdaughter
 p2536
-aVcardboard
+aVbirthdai
 p2537
-aVbedroom
+aVfather
 p2538
-aVsurpris
+aVcardboard box
 p2539
-aVdaughter
+aVdad
 p2540
 asg21
 VDad hides inside wrapped box for his daughter to open on her birthday
@@ -5432,15 +5432,15 @@ aVcareer
 p2551
 asg14
 (lp2552
-Vwwe
+Vwwe wrestler
 p2553
 aVdevelopment territori
 p2554
 aVvinc mcmahon
 p2555
-aVsuperstar
+aVbrock lesnar
 p2556
-aVwrestlemania
+aVwwe superstar
 p2557
 asg21
 V15 WWE Wrestlers Released in 2014: Where Are They Now?
@@ -5470,13 +5470,13 @@ asg14
 (lp2569
 Vdonald trump
 p2570
-aVsubscrib
+aVyork time
 p2571
-aVcoverag
+aVtwitter
 p2572
-aVarthur sulzberg
+aVcoverag
 p2573
-aVcampaign ralli
+aVrestrain
 p2574
 asg21
 VTrump Blasts New York Times Shortly After Vowing to Be Very Restrained on Twitter
@@ -5504,15 +5504,15 @@ aVprotein
 p2585
 asg14
 (lp2586
-Vcow milk
+Vplant base
 p2587
-aVbeverag
-p2588
-aVprotein
-p2589
-aVnutrient
-p2590
 aVcalcium
+p2588
+aVcow milk
+p2589
+aVprotein
+p2590
+aVbeverag
 p2591
 asg21
 VWhich Milk Is Most Nutritious: Soy, Cashew, Almond or Coconut?
@@ -5540,15 +5540,15 @@ aVdonald trump
 p2602
 asg14
 (lp2603
-Vabc
+Vhillari clinton
 p2604
-aVdonald trump
+aVpoll indic
 p2605
-aVclinton
+aVabc
 p2606
-aVpresidenti elect
+aVpresidenti
 p2607
-aVpoll
+aVdonald trump
 p2608
 asg21
 VNew poll indicates that Hillary Clinton and her supporters may see their nightmares become reality
@@ -5575,15 +5575,15 @@ aVgranddaught
 p2618
 asg14
 (lp2619
-Vgranddaught
+Vchristma celebr
 p2620
-aVmarri daughter
+aVgranddaught
 p2621
-aVcelebr christma
+aVmarri daughter
 p2622
-aVmother
+aVcelebr christma
 p2623
-aVhusband
+aVmother
 p2624
 asg21
 VDear Abby: Daughter is excluding family from Christmas celebrations
@@ -5613,13 +5613,13 @@ asg14
 (lp2636
 Vsharon osbourn
 p2637
-aVozzi osbourn
+aVprincess
 p2638
 aVrockstar
 p2639
-aVbehaviour
+aVoutlandish
 p2640
-aVunderneath
+aVozzi osbourn
 p2641
 asg21
 VThe Princess of darkness emerges! X Factor's Sharon Osbourne night out
@@ -5648,13 +5648,13 @@ asg14
 (lp2652
 Vinstagram
 p2653
-aVsubtitl caption
-p2654
 aVpinup
+p2654
+aVhottest
 p2655
-aVdialog
+aVcaption
 p2656
-aVplai video
+aVpin
 p2657
 asg21
 V20 Hottest Instagram Pin-Ups Youve Never Heard Of
@@ -5681,15 +5681,15 @@ p2667
 ag1451
 asg14
 (lp2668
-Vexit poll
+Vhillari clinton
 p2669
-aVpercent
+aVclinton campaign
 p2670
-aVvote
+aVexit poll
 p2671
-aVvoter
+aVvote
 p2672
-aVcampaign
+aVregist republican
 p2673
 asg21
 VFinally, Some Great News for the Hillary Clinton Campaign
@@ -5717,15 +5717,15 @@ aVcutest
 p2684
 asg14
 (lp2685
-Vrob kardashian
+Vnorth west
 p2686
-aVcute overload
-p2687
 aVkardashian famili
+p2687
+aVcutest
 p2688
-aVblac chyna
+aVdream kardashian
 p2689
-aVhalloween
+aVrob kardashian
 p2690
 asg21
 VDream Kardashian, North West \u005cu0026 More: The Cutest Pics Of The Kardashian Kids
@@ -5753,15 +5753,15 @@ aVtrump tower
 p2701
 asg14
 (lp2702
-Vmelania trump
+Vlaura benanti
 p2703
-aVlaura benanti
+aVmelania trump
 p2704
-aVtrump tower
+aVvladimir putin
 p2705
 aVstephen colbert
 p2706
-aVivanka trump
+aVtrump tower
 p2707
 asg21
 VLaura Benanti as Melania Trump thanks Vladimir Putin for his help on Colbert special
@@ -5789,15 +5789,15 @@ aVdress
 p2718
 asg14
 (lp2719
-Vzara
+Vzara holland
 p2720
-aVlove island
+aVdress
 p2721
 aVbeauti queen
 p2722
-aVnightclub
+aVdisplai
 p2723
-aVbritain
+aVlove island
 p2724
 asg21
 VZara Holland puts on a busty display in a low-cut dress
@@ -5829,11 +5829,11 @@ Vbarack obama
 p2737
 aVdonald trump
 p2738
-aVwhite hous
+aVphoto op
 p2739
-aVrepublican nomine
+aVpresid elect
 p2740
-aVpresid barack
+aVrepublican nomine
 p2741
 asg21
 VThe Obamas canceled a traditional photo-op with President-Elect Trump and Melania
@@ -5865,11 +5865,11 @@ Vfood stall
 p2754
 aVbroad daylight
 p2755
-aVbreakfast
-p2756
-aVstreet
-p2757
 aVhusband
+p2756
+aVmachet
+p2757
+aVbender
 p2758
 asg21
 VWife pulls machete on husband after he went on a drinking bender
@@ -5897,15 +5897,15 @@ aVcabinetri
 p2769
 asg14
 (lp2770
-Vlifestyl home
+Vsubdivis
 p2771
-aVcustom
+aVnorthwest indiana
 p2772
-aVhome garden
+aVabound
 p2773
-aVbreakfast
+aVcabinetri
 p2774
-aVkitchenaid
+aVcustom built
 p2775
 asg21
 V16 Most Expensive Homes for Sale in Northwest Indiana
@@ -5935,13 +5935,13 @@ asg14
 (lp2787
 Vjake tapper
 p2788
-aVdonald trump
+aVkellyanne conwai
 p2789
 aVsocial media
 p2790
-aVpanel discuss
+aVdonald trump
 p2791
-aVpassword
+aVtwitter
 p2792
 asg21
 VJake Tapper Asks If Kellyanne Conway Needs To Change Trumps Twitter Password
@@ -5968,15 +5968,15 @@ aVheadband
 p2802
 asg14
 (lp2803
-Vhillari clinton
+Vinstagram
 p2804
-aVfashion
+aVpantsuit
 p2805
-aVinstagram
+aVhillari clinton
 p2806
-aVhillarylook
+aVheadband
 p2807
-aVpdt
+aVfashion
 p2808
 asg21
 VFrom headbands to pantsuits, this Instagram tracks Hillary Clinton's most famous looks
@@ -6003,15 +6003,15 @@ aVtransform
 p2818
 asg14
 (lp2819
-Vpoach egg
+Vmuffin tin
 p2820
-aVmuffin tin
+aVpoach egg
 p2821
 aVmisunderstood
 p2822
-aVhousehold
+aVbreakfast
 p2823
-aVingredi
+aVscrambl egg
 p2824
 asg21
 V12 Eggs Hacks to Transform Your Breakfast Routine
@@ -6041,13 +6041,13 @@ asg14
 (lp2836
 Vkendal jenner
 p2837
-aVbella hadid
-p2838
-aVrunwai
-p2839
 aVbasketbal
+p2838
+aVbella hadid
+p2839
+aVrunwai
 p2840
-aVrealiti star
+aVmessi
 p2841
 asg21
 VOnly Kendall Jenner Would Wear This to a Basketball Game
@@ -6075,15 +6075,15 @@ aVdiscov pilat
 p2852
 asg14
 (lp2853
-Vbootcamp
+Vpilat instructor
 p2854
-aVexercis
+aVbootcamp
 p2855
-aVpilat
+aVexercis
 p2856
-aVfit
+aVbodi pump
 p2857
-aVbodi
+aVmethod
 p2858
 asg21
 VWhy I Turned To Bootcamp After 15 Years As A Pilates Instructor
@@ -6113,13 +6113,13 @@ asg14
 (lp2870
 Vheartbroken
 p2871
-aVgravesit
+aVhusband
 p2872
-aVtona
+aVhorrifi teen
 p2873
-aVcemeteri
-p2874
 aVmugshot
+p2874
+aVtona
 p2875
 asg21
 VOld Widow Is Mugged At Husband's Grave, Then A Horrified Teen Recognizes His Dad In The Mugshot
@@ -6147,11 +6147,11 @@ aVblood pressur
 p2886
 asg14
 (lp2887
-Vskin cancer
+Vgreen tea
 p2888
-aVgreen tea
+aVskin cancer
 p2889
-aVpolyphenol
+aVhealthi
 p2890
 aVantioxid effect
 p2891
@@ -6183,15 +6183,15 @@ aVdrug discoveri
 p2903
 asg14
 (lp2904
-Vbrain tissu
+Vstem cell
 p2905
 aVzika viru
 p2906
-aVstem cell
+aVbrain tissu
 p2907
 aVneural stem
 p2908
-aVhuman brain
+aVdrug discoveri
 p2909
 asg21
 V'Minibrains' Could Help Drug Discovery For Zika And For Alzheimer's
@@ -6221,13 +6221,13 @@ asg14
 (lp2921
 Vdonald trump
 p2922
-aVpresid elect
-p2923
 aVbill clinton
+p2923
+aVpresid elect
 p2924
-aVpresidenti transit
+aVvice presid
 p2925
-aVformer presid
+aVhillari clinton
 p2926
 asg21
 VThe Latest: Bill Clinton congratulates Trump
@@ -6254,15 +6254,15 @@ aVhillari clinton
 p2936
 asg14
 (lp2937
-Vdonald trump
+Vtwitter
 p2938
 aVpresidenti debat
 p2939
-aVhillari clinton
+aVmelania trump
 p2940
-aVreact
+aVdonald trump
 p2941
-aVmelania
+aVhillari clinton
 p2942
 asg21
 VMelania Trump says people are 'too mean' on the Internet. The Internet reacts, obviously.
@@ -6289,15 +6289,15 @@ aVmassachusett
 p2952
 asg14
 (lp2953
-Vmassachusett
+Vdismiss
 p2954
 aVdefend
 p2955
-aVanni dookhan
+aVcrimin
 p2956
-aVsuperior court
+aVchemist
 p2957
-aVprosecutor
+aVconvict
 p2958
 asg21
 VMass. Court To Hear Bid To Dismiss 24K Drug Cases Handled By Annie Dookhan
@@ -6325,15 +6325,15 @@ aVmarin corp
 p2969
 asg14
 (lp2970
-Vdonald trump
+Vmartha raddatz
 p2971
-aVabc new
+aVabc
 p2972
-aVmartha raddatz
+aVdonald trump
 p2973
 aVmilitari polici
 p2974
-aVmarin corp
+aVcoverag
 p2975
 asg21
 VABCs Martha Raddatz Appears to Choke Up While Discussing Implications of Trump Presidency
@@ -6361,15 +6361,15 @@ aVlive matter
 p2986
 asg14
 (lp2987
-Vpolic violenc
+Vblack britain
 p2988
 aVafrican american
 p2989
-aVsocial media
+aVblack peopl
 p2990
-aVbritain
+aVpolic violenc
 p2991
-aVsolidar
+aVunderstand
 p2992
 asg21
 VBlack Britains Similar Understanding of Struggle and Police Conflict
@@ -6397,15 +6397,15 @@ aVwife
 p3003
 asg14
 (lp3004
-Vhusband
+Vbackyard
 p3005
-aVmillionair
+aVgold coin
 p3006
-aVcalifornia
+aVaccident millionair
 p3007
-aVcoin
+aVwife
 p3008
-aVtin
+aVhusband
 p3009
 asg21
 VWife Finds 150-Year-Old Tin In Backyard, Then Becomes Accidental Millionaire With Gold Coins
@@ -6433,15 +6433,15 @@ aVneera tanden
 p3020
 asg14
 (lp3021
-Vhillari clinton
+Vwikileak
 p3022
-aVclinton campaign
+aVhillari clinton
 p3023
-aVwikileak
+aVclinton campaign
 p3024
-aVwhopper
+aVneera tanden
 p3025
-aVemail
+aVwhopper
 p3026
 asg21
 VHillary Campaign: FYI...if WikiLeaks Releases a Last-Minute 'Whopper,' it's 'Probably a Fake'
@@ -6473,11 +6473,11 @@ Vredback spider
 p3039
 aVegg sac
 p3040
-aVinfest
-p3041
 aVhundr
-p3042
+p3041
 aVspider babi
+p3042
+aVdead babi
 p3043
 asg21
 VMan cuts redback spider's egg sac, hundreds of dead babies pour out
@@ -6503,15 +6503,15 @@ aVemail
 p3052
 asg14
 (lp3053
-Vwhoopi goldberg
+Vrudi giuliani
 p3054
 aVfbi
 p3055
-aVhuma abedin
+aVwhoopi goldberg
 p3056
-aVsecretari clinton
+aVclinton
 p3057
-aVhillari clinton
+aVhuma abedin
 p3058
 asg21
 VWhoopi tries to call Rudy Giuliani a liar, but steps in her own 'doodoo'
@@ -6541,13 +6541,13 @@ asg14
 (lp3070
 Vpesticid
 p3071
-aVessenti oil
+aVtablespoon
 p3072
-aVsprai
+aVessenti oil
 p3073
 aVcockroach
 p3074
-aVcritter
+aVstrongest
 p3075
 asg21
 VHow to Make the Strongest Natural Bug Repellants
@@ -6574,15 +6574,15 @@ p3085
 ag673
 asg14
 (lp3086
-Vfoster children
+Vfoster son
 p3087
-aVpaycheck
+aVfoster children
 p3088
-aVsocial experi
-p3089
 aVfoster care
+p3089
+aVsocial experi
 p3090
-aVchild
+aVdaughter
 p3091
 asg21
 VFoster Son Starves While Mom And Daughter Eat, Then A Customer Interrupts To Help Him
@@ -6610,15 +6610,15 @@ aVbbc newsnight
 p3102
 asg14
 (lp3103
-Vdonald trump
+Vchimamanda adichi
 p3104
-aVracism
+aVdonald trump
 p3105
-aVngozi adichi
+aVracism
 p3106
-aVamerican spectat
-p3107
 aVracist
+p3107
+aVbbc newsnight
 p3108
 asg21
 VWatch Chimamanda Adichie Completely Shut Down A White Man Who Said Trump Isn't Racist
@@ -6650,11 +6650,11 @@ Vdonald trump
 p3121
 aVelector vote
 p3122
-aVsouth florida
-p3123
-aVflorida fair
-p3124
 aVpoll
+p3123
+aVrepublican
+p3124
+aVnorth carolina
 p3125
 asg21
 VA new Florida poll illuminates Donald Trumps ridiculously narrow path to victory
@@ -6681,9 +6681,9 @@ aVcruis missil
 p3135
 asg14
 (lp3136
-Vuss zumwalt
+Vnavi
 p3137
-aVnavi
+aVuss zumwalt
 p3138
 aVprojectil
 p3139
@@ -6716,15 +6716,15 @@ aVvenu
 p3151
 asg14
 (lp3152
-Vlittl beauti
+Vcat
 p3153
-aVsensat
+aVgorgeou
 p3154
-aVmiracl
+aVlittl beauti
 p3155
-aVcat
+aVsensat
 p3156
-aVcolor eye
+aVkitten
 p3157
 asg21
 V20 Seconds Of The Most Gorgeous Cat Ive EVER Seen. Simply Stunning.
@@ -6752,15 +6752,15 @@ aVappear
 p3168
 asg14
 (lp3169
-Vsummon ufo
+Vvideo captur
 p3170
-aVvideo
-p3171
 aVcontact alien
+p3171
+aVsummon ufo
 p3172
-aVufo summon
+aVappear
 p3173
-aVenthusiast
+aVobject
 p3174
 asg21
 VUFOs Being Summoned? Two Separate Videos Capture Objects That Appear When Called
@@ -6788,15 +6788,15 @@ aVmorn
 p3185
 asg14
 (lp3186
-Vaccomplish
+Vbed
 p3187
-aVbed
-p3188
-aVmorn improv
-p3189
 aVstress
+p3188
+aVwillingli
+p3189
+aVaccomplish
 p3190
-aVlife
+aVdai
 p3191
 asg21
 VAfter I Read This, I Started to Make My Bed Very Willingly Every Morning
@@ -6826,13 +6826,13 @@ asg14
 (lp3203
 Vashlei massaro
 p3204
-aVworld wrestl
+aVdiva search
 p3205
-aVlawsuit
+aVworld wrestl
 p3206
 aVsexual assault
 p3207
-aVwrestl entertain
+aVlawsuit
 p3208
 asg21
 VFormer Diva Search Contestant Joins Lawsuit Against WWE
@@ -6859,15 +6859,15 @@ aVcrimin enterpris
 p3218
 asg14
 (lp3219
-Vinvestig
+Vclinton foundat
 p3220
-aVbret baier
-p3221
 aVfbi
+p3221
+aVbret baier
 p3222
-aVclinton
+aVinvestig
 p3223
-aVprobe
+aVbombshel
 p3224
 asg21
 VBiggest Bombshell of all: FBI Investigating Clinton Foundation
@@ -6893,15 +6893,15 @@ aVwhite hous
 p3233
 asg14
 (lp3234
-Vbarack obama
+Vtrump
 p3235
-aVnorth carolina
+aVclinton
 p3236
-aVdonald trump
+aVbarack obama
 p3237
-aVwhite hous
+aVnorth carolina
 p3238
-aVcampaign
+aVwhite hous
 p3239
 asg21
 VObama hits the trail in a flurry of events humiliating Trump victory
@@ -6928,15 +6928,15 @@ aVdelet
 p3249
 asg14
 (lp3250
-Vlena dunham
+Vami schumer
 p3251
-aVami schumer
-p3252
-aVracist
-p3253
 aVshutterstock
+p3252
+aVlena dunham
+p3253
+aVracist
 p3254
-aVodel beckham
+aVtweet
 p3255
 asg21
 VAmy Schumer Posts \u005cu0026 Immediately Deletes Incredibly Racist Tweet
@@ -6968,11 +6968,11 @@ Vjennif lopez
 p3268
 aVwinter coat
 p3269
-aVtuesdai afternoon
+aVnbc
 p3270
-aVseason
+aVtuesdai afternoon
 p3271
-aVfriend
+aVnyc
 p3272
 asg21
 VJennifer Lopez Bundles Up in NYC!
@@ -7002,13 +7002,13 @@ asg14
 (lp3284
 Vdonald trump
 p3285
-aVprotest
-p3286
-aVcrowd
-p3287
 aVroad flare
-p3288
+p3286
 aVpresid elect
+p3287
+aVprotest
+p3288
+aVburn road
 p3289
 asg21
 VAnti-Trump Protests End In Tear Gas, Arrests During Violent 4th Night Of Rallies  Pics
@@ -7036,13 +7036,13 @@ aVolympic champion
 p3300
 asg14
 (lp3301
-Vgabbi dougla
+Vsocial media
 p3302
-aVsocial media
+aVgabbi dougla
 p3303
 aVnation anthem
 p3304
-aVolympic champion
+aVbulli
 p3305
 aVinstagram
 p3306
@@ -7072,15 +7072,15 @@ aVteen girl
 p3317
 asg14
 (lp3318
-Vsocial media
+Vdonald trump
 p3319
-aVattack
+aVsocial media
 p3320
-aVviolent
+aVattack
 p3321
-aVtrump
+aVambush
 p3322
-aVsophomor
+aVteen girl
 p3323
 asg21
 VTeen girl ambushed and attacked at high school after voicing support for Donald Trump
@@ -7107,15 +7107,15 @@ aVdave jone
 p3333
 asg14
 (lp3334
-Vhealth insur
+Vinsur commission
 p3335
-aVinsur commission
+aVcalifornia
 p3336
-aVinsur coverag
+aVhealth insur
 p3337
-aVrepeal
+aVinsur coverag
 p3338
-aVdave jone
+aVtrump
 p3339
 asg21
 VCalifornia Insurance Commissioner Says Trump's Proposal to Repeal ACA Will Leave 20 Million Without Coverage
@@ -7143,15 +7143,15 @@ aVletharg
 p3350
 asg14
 (lp3351
-Vinfest
+Vladybug
 p3352
-aVladybug
+aVmouth
 p3353
-aVpet owner
+aVletharg
 p3354
-aVdog mouth
+aVinfest
 p3355
-aVulcer
+aVvet
 p3356
 asg21
 VVets Issue Warning To Owners: Check Your Dogs' Mouths
@@ -7179,15 +7179,15 @@ aVaccount
 p3367
 asg14
 (lp3368
-Vhillari clinton
+Voreilli
 p3369
-aVemail server
+aVobama administr
 p3370
-aVoreilli
+aVhillari clinton
 p3371
-aVsundai night
+aVfbi
 p3372
-aVfbi director
+aVemail server
 p3373
 asg21
 VOReilly: Its Quite Obvious the Obama Administration Has Little Interest in Holding Clinton Accountable
@@ -7213,15 +7213,15 @@ p3382
 ag3016
 asg14
 (lp3383
-Vpresidenti nomine
+Vkim dotcom
 p3384
-aVkim dotcom
-p3385
-aVemail
-p3386
-aVtroubl
-p3387
 aVhillari clinton
+p3385
+aVfbi
+p3386
+aVwikileak
+p3387
+aVtroubl
 p3388
 asg21
 VInternet pirate Kim Dotcom warns Hillary Clinton is 'in serious trouble'
@@ -7249,15 +7249,15 @@ aVexil
 p3399
 asg14
 (lp3400
-Vtour
+Vwwe star
 p3401
-aVchri jericho
+aVtour
 p3402
-aVscuffl
+aVchri jericho
 p3403
-aVanger manag
+aVconfront
 p3404
-aVsmackdown
+aVanger manag
 p3405
 asg21
 VWWE Star Exiled Due to Backstage Fight
@@ -7286,13 +7286,13 @@ asg14
 (lp3416
 Vhillari clinton
 p3417
-aVdonald trump
+aVheadquart
 p3418
 aVelect night
 p3419
-aVelect result
+aVwomen
 p3420
-aVbarack obama
+aVtrump
 p3421
 asg21
 VShock, anger consume women at Clinton headquarters
@@ -7323,11 +7323,11 @@ Vrepublican
 p3433
 aVdonald trump
 p3434
-aVcongression
+aVhous
 p3435
 aVdemocrat
 p3436
-aVhous
+aVrace
 p3437
 asg21
 VElection expert: "the race for the House is over: Republicans are going to keep it"
@@ -7357,13 +7357,13 @@ asg14
 (lp3449
 Vmisdemeanor
 p3450
-aVfeloni
-p3451
-aVsimpl assault
-p3452
 aVcareless drive
+p3451
+aVreckless drive
+p3452
+aVsimpl assault
 p3453
-aVoffens
+aVfeloni
 p3454
 asg21
 VHe refused to pull over for deputies. Now hes really in trouble
@@ -7389,15 +7389,15 @@ aVprevious
 p3463
 asg14
 (lp3464
-Vobstruct
+Vfbi
 p3465
-aVemail
-p3466
-aVfbi
-p3467
 aVprison sentenc
-p3468
+p3466
 aVhillari clinton
+p3467
+aVprevious
+p3468
+aVweiner
 p3469
 asg21
 VBREAKING Smoking Gun Coming? CBS Reports FBI Found Clinton Server Related Emails on Weiner Computer That Werent Disclosed
@@ -7427,13 +7427,13 @@ asg14
 (lp3481
 Vdonald trump
 p3482
-aVbigotri
-p3483
-aVfear
-p3484
-aVsexual predat
-p3485
 aVharri reid
+p3483
+aVsexual predat
+p3484
+aVamerican
+p3485
+aVelector colleg
 p3486
 asg21
 VHarry Reid finally said what so many Democrats are thinking about a Trump presidency
@@ -7460,15 +7460,15 @@ p3496
 ag1012
 asg14
 (lp3497
-Vemail server
+Vclinton
 p3498
-aVinvestig
+aVfbi director
 p3499
-aVdiscoveri
+aVemail server
 p3500
-aVclinton
+aVdefeat
 p3501
-aVmomentum
+aVsecretari
 p3502
 asg21
 VClinton blames FBI director for defeat
@@ -7500,11 +7500,11 @@ Vhurrican katrina
 p3515
 aVorlean polic
 p3516
-aVpolic offic
+aVplead guilti
 p3517
 aVmisdemeanor
 p3518
-aVplead guilti
+aVpolic offic
 p3519
 asg21
 VThe Latest: Brother glad all cops admitted guilt in shooting
@@ -7532,15 +7532,15 @@ aVrugbi match
 p3530
 asg14
 (lp3531
-Vtalk
+Vprinc harri
 p3532
 aVmeghan markl
 p3533
-aVlegal drama
-p3534
 aVgirlfriend
+p3534
+aVlegal drama
 p3535
-aVhalloween
+aVrugbi match
 p3536
 asg21
 VPrince Harry's new girlfriend Meghan Markle is already back in Canada
@@ -7568,15 +7568,15 @@ aVblack hole
 p3547
 asg14
 (lp3548
-Vthermodynam
+Vperpetu motion
 p3549
-aVperpetu motion
+aVthermodynam
 p3550
 aVenergi
 p3551
 aVblack hole
 p3552
-aVquantum
+aVinfinit
 p3553
 asg21
 VInfinite, free energy? New loophole in Laws of Thermodynamics found
@@ -7608,11 +7608,11 @@ Vvolkswagen
 p3566
 aVkarmann ghia
 p3567
-aVmodel
-p3568
 aVengin
+p3568
+aVmodel
 p3569
-aVlineup
+aVhp
 p3570
 asg21
 VVolkswagen Should Bring Back Its Sexiest Model: The Karmann Ghia
@@ -7639,15 +7639,15 @@ aVbezo
 p3580
 asg14
 (lp3581
-Vdonald trump
+Vwashington post
 p3582
-aVwashington post
+aVdonald trump
 p3583
-aVantitrust
-p3584
-aVmainstream media
-p3585
 aVamazon
+p3584
+aVantitrust
+p3585
+aVbezo
 p3586
 asg21
 VTrump warned Amazon would have 'problems' under his presidency  here's what could happen
@@ -7688,15 +7688,15 @@ aVryan phillipp
 p3604
 asg14
 (lp3605
-Vwwe smackdown
+Vrandi orton
 p3606
-aVusa network
+aVwwe smackdown
 p3607
-aVryan phillipp
-p3608
-aVpremier
-p3609
 aVjerri lawler
+p3608
+aVusa network
+p3609
+aVphillipp
 p3610
 asg21
 VRandy Orton C Shooter Update, WWE Announcer Reacts to the Big News, SmackDown Pre-show
@@ -7726,13 +7726,13 @@ asg14
 (lp3622
 Vmaci bookout
 p3623
-aVlap danc
+aVstrip club
 p3624
 aVteen mom
 p3625
-aVstripper
+aVlap danc
 p3626
-aVbachelorett parti
+aVstripper
 p3627
 asg21
 VMaci Bookout Gets RAUNCHY at The Strip Club!
@@ -7762,13 +7762,13 @@ asg14
 (lp3639
 Vaqueduct
 p3640
-aVpassagewai
+aVvintag car
 p3641
-aV16th centuri
+aVpassagewai
 p3642
-aVtunnel
+aV16th centuri
 p3643
-aVking ferdinand
+aVsecret tunnel
 p3644
 asg21
 VInside the secret tunnel under Naples filled with vintage cars
@@ -7796,15 +7796,15 @@ aVbantamweight champion
 p3655
 asg14
 (lp3656
-Vronda rousei
+Vamanda nune
 p3657
-aVamanda nune
-p3658
 aVbantamweight titl
+p3658
+aVronda rousei
 p3659
-aVweigh
+aVufc
 p3660
-aVtitl fight
+aVfight
 p3661
 asg21
 VAmanda Nunes reveals ambitions after Ronda Rousey face-off at UFC 205 weigh in
@@ -7832,13 +7832,13 @@ asg14
 (lp3671
 Vplead guilti
 p3672
-aVcumberland
-p3673
 aVsupervis releas
+p3673
+aVcumberland
 p3674
-aVrestitut
+aVsentenc
 p3675
-aVbank fraud
+aVprison
 p3676
 asg21
 VAskins reports to prison Jan. 9
@@ -7869,11 +7869,11 @@ Vvitamin b12
 p3688
 aVblood cell
 p3689
-aVmegaloblast anemia
-p3690
 aVdefici
+p3690
+aVmegaloblast anemia
 p3691
-aVoxygen
+aVnutrient
 p3692
 asg21
 V11 Silent Signs Youre Not Eating Enough Vitamin B12
@@ -7901,15 +7901,15 @@ aVsouth carolina
 p3703
 asg14
 (lp3704
-Vadopt father
+Vadopt daughter
 p3705
-aVadopt daughter
-p3706
-aVsearch warrant
-p3707
 aVnorth carolina
+p3706
+aVadopt father
+p3707
+aVsearch warrant
 p3708
-aVerica parson
+aVsouth carolina
 p3709
 asg21
 VMan Tortured Disabled, Adopted Daughter Before Her Body Was 'Discarded' 5 Years Ago: Cops
@@ -7937,15 +7937,15 @@ aVextraterrestri
 p3720
 asg14
 (lp3721
-Vextraterrestri
+Valien spacecraft
 p3722
-aVconspiraci theorist
+aVufo
 p3723
-aVcloud
+aVconspiraci theorist
 p3724
-aVdome shape
+aVextraterrestri
 p3725
-aVcraft
+aVdome shape
 p3726
 asg21
 VUFO News 2016: Alien Spacecraft Spotted Cloaking In Clouds?
@@ -7973,15 +7973,15 @@ aVpaus button
 p3737
 asg14
 (lp3738
-Vimmigr polici
+Vdonald trump
 p3739
-aVdonald trump
+aVimmigr polici
 p3740
 aVmexican border
 p3741
-aVpaus button
+aVcountri illeg
 p3742
-aVilleg immigr
+aVpaus button
 p3743
 asg21
 VTrump And US Immigration: What Can Would-Be Immigrants Expect?
@@ -8011,13 +8011,13 @@ asg14
 (lp3755
 Vpsilocybin
 p3756
-aVmarijuana
+aVlegal marijuana
 p3757
-aVlegal movement
-p3758
 aVrecreat cannabi
+p3758
+aVlegal movement
 p3759
-aVdrug
+aVmarijuana legal
 p3760
 asg21
 VIts high time: If we can legalize marijuana, why cant we end the misguided War on Drugs?
@@ -8047,13 +8047,13 @@ asg14
 (lp3772
 Vsolar system
 p3773
-aVtelescop
+aVbillion mile
 p3774
-aVobject
+aVplanet
 p3775
-aVcolleagu
+aVdistant solar
 p3776
-aVpattern
+aVlittl deeper
 p3777
 asg21
 VTo Planet 9 ?and Beyond!
@@ -8080,13 +8080,13 @@ asg14
 (lp3786
 Vdaughter
 p3787
-aVthomaston
+aVinstagram
 p3788
-aVhairdress
+aVthomaston
 p3789
-aVbacklash
+aVhair
 p3790
-aVhair dy
+aVstranger
 p3791
 asg21
 VStrangers Insult Her For Dyeing Daughters Hair Blue, Then Mom Writes A Note On Instagram
@@ -8114,15 +8114,15 @@ aVwidth
 p3802
 asg14
 (lp3803
-Vgrip
+Vbench press
 p3804
-aVbench press
+aVgrip
 p3805
-aVmuscl
-p3806
 aVpulldown
+p3806
+aVmuscl
 p3807
-aVupright row
+aVwidth
 p3808
 asg21
 V6 Grip Tips to Build More Muscle
@@ -8158,7 +8158,7 @@ aVrelationship
 p3823
 aVcleveland cavali
 p3824
-aVromanc
+aVdump khloe
 p3825
 asg21
 VTristan Thompson Dumps Khloe Kardashian After Teammates Mock Romance  Report
@@ -8187,13 +8187,13 @@ asg14
 (lp3836
 Vabsente ballot
 p3837
-aVdemocrat coalit
+aVohio secretari
 p3838
 aVfbi
 p3839
-aVcomplaint
+aVdemocrat coalit
 p3840
-aVsecretari
+aVcomplaint
 p3841
 asg21
 VOhio Secretary Of State Slapped With FBI Complaint By Democratic Coalition
@@ -8221,15 +8221,15 @@ aVrepublican
 p3852
 asg14
 (lp3853
-Vdonald trump
+Vmelania trump
 p3854
-aVmelania trump
+aVdonald trump
 p3855
-aVnation convent
+aVcyberbulli
 p3856
-aVsocial media
+aVnation convent
 p3857
-aVpresidenti nomine
+aVrepublican
 p3858
 asg21
 VMelania Trump Vows To Take On Cyberbullying
@@ -8259,13 +8259,13 @@ asg14
 (lp3870
 Vdonald trump
 p3871
-aVpresid elect
+aVcampaign promis
 p3872
-aVwashington
+aVpresid elect
 p3873
-aVbarack obama
+aVwashington
 p3874
-aVmitch mcconnel
+aVhealth care
 p3875
 asg21
 VIs Donald Trump already walking away from campaign promises?
@@ -8292,15 +8292,15 @@ aVlittl babi
 p3885
 asg14
 (lp3886
-Vdog
+Vdepress
 p3887
-aVkill shelter
+aVlittl dog
 p3888
-aVvet
-p3889
-aVgarbag
-p3890
 aVabandon
+p3889
+aVrefus
+p3890
+aVeuthan
 p3891
 asg21
 VDepressed Puppy Refuses To Play, So They Start To Euthanize Him. Then Doctor Sees A Strange Tick
@@ -8330,13 +8330,13 @@ asg14
 (lp3903
 Vfreshman season
 p3904
-aVnbc
+aVfantasi drama
 p3905
 aVviewer
 p3906
-aVfantasi drama
+aVsleepi hollow
 p3907
-aVcelebr guest
+aVmaya rudolph
 p3908
 asg21
 V14 TV Shows Likely to Get the Ax After This Season
@@ -8368,11 +8368,11 @@ Vroman reign
 p3921
 aVwwe univers
 p3922
-aVwrestlemania 32
+aVeuropean tour
 p3923
 aVwwe champion
 p3924
-aVreaction
+aVwrestlemania
 p3925
 asg21
 VWWE News: Reason Why Roman Reigns Was Pulled From European Tour Revealed
@@ -8402,13 +8402,13 @@ asg14
 (lp3937
 Vchild protect
 p3938
-aVdeliveri
-p3939
-aVsnap judgment
-p3940
-aVdoorbel rang
-p3941
 aVprotect servic
+p3939
+aVdeliveri
+p3940
+aVjudgment
+p3941
+aVdoorbel rang
 p3942
 asg21
 VMom Doesn't Answer The Door, So Delivery Man Calls Child Protective Services On Her
@@ -8440,11 +8440,11 @@ Vstephen curri
 p3955
 aVorlean pelican
 p3956
-aVnba
+aVnba record
 p3957
-aVpointer
+aVoracl arena
 p3958
-aVgame
+aVgolden
 p3959
 asg21
 VGolden State Warriors News: Stephen Curry Sets Another NBA Record For Three Points
@@ -8472,15 +8472,15 @@ aVbarack obama
 p3970
 asg14
 (lp3971
-Vdonald trump
+Vtrump tower
 p3972
-aVtrump tower
+aVdonald trump
 p3973
-aVwhite hous
-p3974
 aVpresid elect
+p3974
+aVwhite hous
 p3975
-aVmanhattan
+aVbarack obama
 p3976
 asg21
 VPart Time President: Donald Trump Will Rarely Live In The White House
@@ -8508,15 +8508,15 @@ aVpark geun
 p3987
 asg14
 (lp3988
-Vpark geun
+Vprotest ralli
 p3989
-aVthoroughfar
+aVsouth korean
 p3990
-aVprotest ralli
+aVthoroughfar
 p3991
-aVpresid park
+aVresign
 p3992
-aVinfluenc
+aVpresid park
 p3993
 asg21
 V'Half a million' protesters rally in Seoul to demand resignation of South Korean president over scandal of friend who meddled in state affairs
@@ -8546,13 +8546,13 @@ asg14
 (lp4005
 Vdonald trump
 p4006
-aVrule class
-p4007
-aVopinion
-p4008
 aVpeter hitchen
+p4007
+aVrule class
+p4008
+aVbarack obama
 p4009
-aVscorn
+aVhitch
 p4010
 asg21
 VPETER HITCHES: Think Trump is bad? Wait until you see what comes next
@@ -8582,9 +8582,9 @@ asg14
 (lp4022
 Vdonald trump
 p4023
-aVhillari clinton
+aVcrook hillari
 p4024
-aVinterview
+aVhillari clinton
 p4025
 aVpresid elect
 p4026
@@ -8616,15 +8616,15 @@ aVcorset
 p4038
 asg14
 (lp4039
-Vphotoshoot
+Vsofia richi
 p4040
-aVsofia richi
+aVphotoshoot
 p4041
-aVlionel richi
+aVsweet
 p4042
-aVtrainer
+aVmagazin
 p4043
-aVroller rink
+aVcorset
 p4044
 asg21
 VSofia Richie flaunts slim figure in silk corset for sweets! magazine
@@ -8653,13 +8653,13 @@ asg14
 (lp4055
 Vsmackdown
 p4056
-aVtimekeep
+aVwwe live
 p4057
-aVdolph ziggler
+aVdefeat
 p4058
-aVheath slater
+aVlive event
 p4059
-aVintercontinent
+aVretain
 p4060
 asg21
 VWWE Live Event Results C Bilbao 11/13/2016
@@ -8686,15 +8686,15 @@ aVelect
 p4070
 asg14
 (lp4071
-Vfbi director
+Vhillari clinton
 p4072
-aVcampaign
+aVfbi director
 p4073
-aVpresidenti elect
+aVcampaign
 p4074
-aVhillari clinton
+aVpresidenti elect
 p4075
-aVinvestig
+aVdevastat defeat
 p4076
 asg21
 VHillary Clinton blames FBI director for election loss
@@ -8724,13 +8724,13 @@ asg14
 (lp4088
 Vultrasound
 p4089
-aVcoupl
+aVnissan 370z
 p4090
-aVhusband
+aVmom
 p4091
 aVcar
 p4092
-aVreena
+aVmike
 p4093
 asg21
 VMom Goes In For An Ultrasound, Then Dad Notices The Baby Is Oddly Shaped
@@ -8758,15 +8758,15 @@ aVdebra
 p4104
 asg14
 (lp4105
-Vsneak peek
+Vteen mom
 p4106
-aVteen mom
-p4107
 aVfarrah abraham
+p4107
+aVsneak peek
 p4108
-aVdebra danielson
+aVmother
 p4109
-aVweek episod
+aVdebra danielson
 p4110
 asg21
 VTeen Mom OG Sneak Peek: Farrah Abraham Calls Her Mom Debra A Dumb B**** [VIDEO]
@@ -8794,15 +8794,15 @@ aVelect
 p4121
 asg14
 (lp4122
-Velector colleg
+Velector vote
 p4123
-aVelector vote
-p4124
 aVpopular vote
+p4124
+aVelector colleg
 p4125
-aVcandid
+aVdonald trump
 p4126
-aVpresid
+aVcandid
 p4127
 asg21
 VWhy isn't Hillary president if she won the popular vote?
@@ -8830,15 +8830,15 @@ aVpennsylvania
 p4138
 asg14
 (lp4139
-Varbi
+Vsteak sandwich
 p4140
 aVdeer meat
 p4141
-aVvenison sandwich
+aVarbi
 p4142
-aVpennsylvania
+aVvenison sandwich
 p4143
-aVdeer sandwich
+aVpennsylvania
 p4144
 asg21
 VArbys Venison Deer Steak Sandwich Sells Out On First Day
@@ -8865,15 +8865,15 @@ aVnappi
 p4154
 asg14
 (lp4155
-Vnappi
+Vfive month
 p4156
-aVemili rose
-p4157
 aVpotti train
+p4157
+aVnappi
 p4158
 aVdaughter
 p4159
-aVbabi
+aVemili rose
 p4160
 asg21
 VParents left in 'awe' after daughter uses potty at FIVE MONTHS
@@ -8899,15 +8899,15 @@ ag3448
 ag1112
 asg14
 (lp4170
-Vfeloni
+Vplead guilti
 p4171
 aVsex offend
 p4172
-aVcharg
+aVfeloni
 p4173
 aVprison
 p4174
-aVrape
+aVcharg
 p4175
 asg21
 VPiqua man pleads guilty to raping 5-year-old
@@ -8936,13 +8936,13 @@ asg14
 (lp4186
 Vdonald trump
 p4187
-aVsexual assault
+aVwoman
 p4188
-aVjane doe
+aVrape
 p4189
-aVanonym woman
+aVjane doe
 p4190
-aValleg
+aVclaim
 p4191
 asg21
 VAfter months of speculation the woman who claims Donald Trump raped her as a teenager is finally coming forward
@@ -8972,13 +8972,13 @@ asg14
 (lp4203
 Vfox carolina
 p4204
-aVmeredith corpor
+aVcrash
 p4205
-aVmodal window
+aVmile marker
 p4206
-aVmondai morn
+aVeastbound
 p4207
-aVinterst
+aVmcdowel counti
 p4208
 asg21
 VI-40 East closed due to crash
@@ -9008,13 +9008,13 @@ asg14
 (lp4220
 Vwheel
 p4221
-aVoffset
-p4222
-aVtire
-p4223
 aVair pressur
-p4224
+p4222
 aVdiamet
+p4223
+aVwidth
+p4224
+aVoffset
 p4225
 asg21
 VWhat You Need to Know When Buying Your Next Set of Rims
@@ -9042,15 +9042,15 @@ aVgross
 p4236
 asg14
 (lp4237
-Vbecki barnicoat
+Vbuzzfe
 p4238
-aVbuzzfe
+aVbecki barnicoat
 p4239
-aVsmell
-p4240
 aVingrown hair
+p4240
+aVsmell
 p4241
-aVcompetit sport
+aVgross
 p4242
 asg21
 V9 Slightly Gross Things Most Couples Secretly Do
@@ -9080,11 +9080,11 @@ Vscarlett johansson
 p4253
 aVtrailer
 p4254
-aVcyborg
+aVghost
 p4255
-aVcyberpunk
-p4256
 aVrupert sander
+p4256
+aVshell
 p4257
 asg21
 VFull Trailer For Ghost In The Shell Debuts
@@ -9112,15 +9112,15 @@ aVstudent
 p4268
 asg14
 (lp4269
-Vdonald trump
+Vteacher
 p4270
-aVundocu immigr
+aVdonald trump
 p4271
-aVteacher
+aVundocu immigr
 p4272
 aVlo angel
 p4273
-aVparent
+aVstudent
 p4274
 asg21
 VTeacher Tells Students Their Parents Will Be Deported
@@ -9148,11 +9148,11 @@ aVdanc routin
 p4285
 asg14
 (lp4286
-Vcheerlead
+Vhalloween costum
 p4287
-aVhalloween
+aVbronco cheerlead
 p4288
-aVcostum
+aVtwitter com
 p4289
 aVdanc routin
 p4290
@@ -9184,15 +9184,15 @@ aVtoi
 p4302
 asg14
 (lp4303
-Valaskan malamut
+Vnorth carolina
 p4304
-aVnorth carolina
+aValaskan malamut
 p4305
 aVstuff anim
 p4306
 aVtoi
 p4307
-aVafford
+aVinsepar
 p4308
 asg21
 VTHEN \u005cu0026 NOW: This Dog Destroys Every Stuffed Animal Except This One
@@ -9220,15 +9220,15 @@ aVrumor
 p4319
 asg14
 (lp4320
-Vhillari clinton
+Vbill clinton
 p4321
-aVbill clinton
-p4322
 aVdonald trump
+p4322
+aVhillari clinton
 p4323
 aVdivorc
 p4324
-aVrumor
+aVchristian time
 p4325
 asg21
 VHillary, Bill Clinton Divorce Rumors Run Wild: Is She Really Leaving Him?
@@ -9256,15 +9256,15 @@ aVreach
 p4336
 asg14
 (lp4337
-Vdream
+Vreach
 p4338
-aVreach
-p4339
-aVdont
-p4340
 aVsocial media
+p4339
+aVequin therapi
+p4340
+aVwhirl dervish
 p4341
-aVpickl
+aVsound familiar
 p4342
 asg21
 V8 Things to Keep in Mind when Reaching for the Stars in 2017
@@ -9296,11 +9296,11 @@ Vbill belichick
 p4355
 aVjami collin
 p4356
-aVlineback
+aVtouchdown
 p4357
 aVcleveland brown
 p4358
-aVtouchdown
+aVpatriot
 p4359
 asg21
 VBill Belichick gets validation for cutthroat Patriots trade
@@ -9330,9 +9330,9 @@ asg14
 (lp4371
 Vflight attend
 p4372
-aVolivia siever
+aVbueno air
 p4373
-aVstrai dog
+aVolivia
 p4374
 aVrubio
 p4375
@@ -9367,11 +9367,11 @@ Vdonald trump
 p4388
 aVmegyn kelli
 p4389
-aVpresidenti elect
-p4390
 aVfox
-p4391
+p4390
 aVjournalist
+p4391
+aVwednesdai morn
 p4392
 asg21
 VHeres What Megyn Kelly Had to Say About Donald Trump Winning the Election
@@ -9399,15 +9399,15 @@ aVatlanta journal
 p4403
 asg14
 (lp4404
-Vserial killer
+Vrequest
 p4405
-aVwyff new
+aVgeorgia
 p4406
-aVexecut
+aVserial killer
 p4407
-aVatlanta journal
+aVpizza
 p4408
-aVtimothi mcveigh
+aVatlanta journal
 p4409
 asg21
 VGeorgia man requests pizza before execution; Last meal requests vary greatly
@@ -9435,15 +9435,15 @@ aVshatter
 p4420
 asg14
 (lp4421
-Vrodham clinton
+Vhillari clinton
 p4422
-aVhillari rodham
+aVglass ceil
 p4423
-aVphiladelphia
+aVhillari rodham
 p4424
-aVelect dai
+aVrodham clinton
 p4425
-aVclinton campaign
+aVshatter
 p4426
 asg21
 VHillary Clinton Didnt Shatter the Glass Ceiling. This Is What Broke Instead.
@@ -9471,15 +9471,15 @@ aVvictim
 p4437
 asg14
 (lp4438
-Vallegheni counti
+Vcrimin complaint
 p4439
-aVcounti polic
+aVallegheni counti
 p4440
-aVcrimin complaint
+aVcounti polic
 p4441
-aVvictim
+aVroommat
 p4442
-aVinvestig
+aVcharl parker
 p4443
 asg21
 VPolice: Man Killed Roommate For Stealing His Beer, Then Took Photos Of Body
@@ -9507,15 +9507,15 @@ aVsilver screen
 p4454
 asg14
 (lp4455
-Vembryo
+Vblue shark
 p4456
-aVblue shark
+aVembryo
 p4457
-aVhead shark
-p4458
-aVsilver screen
-p4459
 aVstrang creatur
+p4458
+aVhead shark
+p4459
+aVsilver screen
 p4460
 asg21
 VTwo-Headed Sharks are Becoming More and More Common
@@ -9547,11 +9547,11 @@ Vblack fridai
 p4473
 aVgalaxi s7
 p4474
-aVelectron
+aVbui
 p4475
 aVdeal
 p4476
-aVinstal
+aVedg
 p4477
 asg21
 VBest Buy has a great Black Friday Galaxy S7 deal you can use right now
@@ -9581,13 +9581,13 @@ asg14
 (lp4489
 Vbill clinton
 p4490
-aVtranscript
-p4491
 aVpolit system
+p4491
+aVleak transcript
 p4492
-aVfundrais
+aVwhite hous
 p4493
-aVhillari clinton
+aVdisappoint
 p4494
 asg21
 VLeaked Transcript: Bill Clinton Says Political System Is Rigged And Hillary Deserves The White House
@@ -9616,13 +9616,13 @@ asg14
 (lp4505
 Vdonald trump
 p4506
-aVreinc priebu
-p4507
-aVtransit team
-p4508
 aVrnc
+p4507
+aVreinc priebu
+p4508
+aVrepublican
 p4509
-aVwhite hous
+aVtransit team
 p4510
 asg21
 VDonald Trump Names RNC Chair Reince Priebus Chief of Staff
@@ -9652,13 +9652,13 @@ asg14
 (lp4522
 Vtighten
 p4523
-aVforc multipli
+aVmount
 p4524
-aVmount screw
-p4525
-aVbracket
-p4526
 aVhandrail
+p4525
+aVscrew
+p4526
+aVloos
 p4527
 asg21
 VThe Screws in My Handrail Keep Coming Loose. What Gives?
@@ -9690,11 +9690,11 @@ Vhillari clinton
 p4540
 aVdonald trump
 p4541
-aVclinton campaign
+aVla vega
 p4542
-aVpresidenti nomine
+aVdemocrat
 p4543
-aVnevada
+aVclinton campaign
 p4544
 asg21
 VHillary Clinton Las Vegas, Nevada Rally: The Photos You Need to See
@@ -9720,15 +9720,15 @@ aVtouchdown
 p4553
 asg14
 (lp4554
-Vquarterback
+Vdalla cowboi
 p4555
-aVnfl
-p4556
 aVpittsburgh steeler
+p4556
+aVquarterback
 p4557
-aVunderdog
+aVnfl
 p4558
-aVdalla cowboi
+aVdak prescott
 p4559
 asg21
 VDallas Cowboys vs. Pittsburgh Steelers 2016: Prediction, Betting Odds, Preview For NFL Week 10
@@ -9756,15 +9756,15 @@ aVsmoker
 p4570
 asg14
 (lp4571
-Vconvent cigarett
+Vcigarett
 p4572
-aVsmoker
+aVvape
 p4573
-aVstop smoke
+aVnicotin
 p4574
-aVhealth
+aVstop smoke
 p4575
-aVtobacco
+aVsmoker
 p4576
 asg21
 VVape debate: Can e-cigarettes fight smoking? And how safe are they?
@@ -9792,15 +9792,15 @@ aVcharact
 p4587
 asg14
 (lp4588
-Vcomedian
+Vchri rock
 p4589
 aVdave chappel
 p4590
-aVsaturdai night
+aVsnl
 p4591
-aVsurpris
+aVelect night
 p4592
-aVchri rock
+aVcharact plai
 p4593
 asg21
 VChris Rock Joins Dave Chappelle To Burst Democrats Election Night Bubble On 'SNL'
@@ -9830,13 +9830,13 @@ asg14
 (lp4605
 Vkim kardashian
 p4606
-aVrock bottom
+aVrole model
 p4607
-aVkardashian west
+aVrock bottom
 p4608
-aVstranger
+aVbeauti
 p4609
-aVmistak
+aVkardashian west
 p4610
 asg21
 V9 Reasons Kim Kardashian is Good Role Model For Women
@@ -9862,15 +9862,15 @@ ag1599
 ag773
 asg14
 (lp4620
-Vnation anthem
+Vdonald trump
 p4621
-aVquarterback
-p4622
 aVmike evan
+p4622
+aVnation anthem
 p4623
-aVcolin kaepernick
+aVquarterback
 p4624
-aVpreseason
+aVprotest
 p4625
 asg21
 VMike Evans protested Donald Trump during national anthem
@@ -9898,15 +9898,15 @@ aVnbc
 p4636
 asg14
 (lp4637
-Vcrocodil
+Vsri lankan
 p4638
-aVreptil
+aVlargest crocodil
 p4639
 aVlocal media
 p4640
-aVsri lankan
+aVreptil
 p4641
-aVdistrict
+aVvillag
 p4642
 asg21
 VVIDEO: Villagers rescue one of the largest crocodiles youll ever see
@@ -9936,13 +9936,13 @@ asg14
 (lp4654
 Vchrisett michel
 p4655
-aVplai video
-p4656
-aVinstagram
-p4657
-aVben affleck
-p4658
 aVmodal window
+p4656
+aVben affleck
+p4657
+aVsponsor
+p4658
+aVblue yellow
 p4659
 asg21
 VThicker Than A Snicker: Chrisette Michele Looking Delicious On The Gram
@@ -9970,13 +9970,13 @@ aVwhite
 p4670
 asg14
 (lp4671
-Vdonald trump
+Vvan jone
 p4672
-aVracial tension
+aVdonald trump
 p4673
-aVcountri
+aVracial tension
 p4674
-aVlash
+aVwhite lash
 p4675
 aVbacklash
 p4676
@@ -10008,13 +10008,13 @@ asg14
 (lp4688
 Vultrasound screen
 p4689
-aVumbil cord
+aVparenthood
 p4690
-aVpregnanc
+aVumbil cord
 p4691
 aVident twin
 p4692
-aVjessica
+aVamniot sac
 p4693
 asg21
 VMom Is Pregnant With Rare Twins, Then Doctor Realizes One Babys Face Is Smothered By The Cord
@@ -10042,15 +10042,15 @@ aVsyrup
 p4704
 asg14
 (lp4705
-Vcoca cola
+Vfast food
 p4706
-aVrestaur
+aVcoca cola
 p4707
-aVsyrup
+aVfood chain
 p4708
 aVmcdonald
 p4709
-aVdrink
+aVtast
 p4710
 asg21
 VThis is why McDonald's Coke tastes better than every other fast food chains
@@ -10078,15 +10078,15 @@ aVleg
 p4721
 asg14
 (lp4722
-Vattack
+Vbroussard
 p4723
-aVcleo
+aVpit bull
 p4724
-aVmartha broussard
+aVattack
 p4725
-aVaftermath
+aVcleo
 p4726
-aVneighbor
+aVleg
 p4727
 asg21
 VPit bull attack could cost teen hero his leg
@@ -10116,13 +10116,13 @@ asg14
 (lp4739
 Vtaylor swift
 p4740
-aVcatsuit
-p4741
-aVentertain
-p4742
 aVbelli button
+p4741
+aVcma award
+p4742
+aVjulien macdonald
 p4743
-aVaward
+aVslit
 p4744
 asg21
 VTaylor Swift Wore a Dress With a Crotch-High Slit
@@ -10151,13 +10151,13 @@ asg14
 (lp4755
 Vdonald trump
 p4756
-aVprotest
-p4757
-aVrudi giuliani
-p4758
-aVracism
-p4759
 aVhillari clinton
+p4757
+aVgiuliani
+p4758
+aVprotest
+p4759
+aVexaggerat
 p4760
 asg21
 VGiuliani Thinks Anti-Trump Protesters Are 'Exaggerating' Their Fears
@@ -10184,15 +10184,15 @@ aVscott counti
 p4770
 asg14
 (lp4771
-Vmisdemeanor
+Vchild molest
 p4772
 aVarrest
 p4773
-aVchild molest
+aVcharg
 p4774
-aVpossess
+aVmisdemeanor
 p4775
-aVmarijuana
+aVscott counti
 p4776
 asg21
 VISP arrest man on child molestation charges
@@ -10224,11 +10224,11 @@ Vgrandson
 p4789
 aVcashier
 p4790
-aVmoneygram
+aVsend monei
 p4791
-aVpongoni
+aVgroceri store
 p4792
-aVattornei
+aVcall
 p4793
 asg21
 VGrandpa Goes To Send Money Order, Then Cashier Realizes Hes Being Scammed
@@ -10255,15 +10255,15 @@ p4803
 ag354
 asg14
 (lp4804
-Vpresidenti nomine
+Vdonald trump
 p4805
-aVtwitter account
+aVpresid obama
 p4806
-aVdonald trump
+aVpresidenti nomine
 p4807
-aVclinton
+aVtwitter account
 p4808
-aVcampaign
+aVclinton
 p4809
 asg21
 VPresident Obama Mocks Donald Trump for Not Being Allowed to Tweet
@@ -10291,15 +10291,15 @@ aVnasti
 p4820
 asg14
 (lp4821
-Vtemper tantrum
+Vcomment
 p4822
-aVcomment
+aVtemper tantrum
 p4823
-aVoppress
+aVnasti
 p4824
-aVsexism
+aVsexist
 p4825
-aVphysical harm
+aVoppress
 p4826
 asg21
 VFrom a nasty woman
@@ -10327,15 +10327,15 @@ aVistock heik
 p4837
 asg14
 (lp4838
-Veczema
+Vskin condit
 p4839
-aVdermatolog
+aVeczema
 p4840
-aVskin condit
+aVinflammatori respons
 p4841
-aVassist professor
+aVimmun system
 p4842
-aVpatient
+aVdermatolog
 p4843
 asg21
 V6 Reasons You Keep Waking Up in the Middle of the Night
@@ -10367,11 +10367,11 @@ Vaircraft carrier
 p4856
 aVindian navi
 p4857
-aVnuclear reactor
-p4858
 aVsupercarri
+p4858
+aVlaunch
 p4859
-aVlaunch system
+aVnuclear reactor
 p4860
 asg21
 VIndias Next Aircraft Carrier Will Be Nuclear
@@ -10397,15 +10397,15 @@ p4869
 ag3852
 asg14
 (lp4870
-Vhillari clinton
+Vfbi
 p4871
-aVfbi
+aVhillari clinton
 p4872
 aVmadonna
 p4873
 aVrepublican
 p4874
-aVhell
+aVdonald trump
 p4875
 asg21
 Vhillary arrested by FBI
@@ -10433,15 +10433,15 @@ aVmelo
 p4886
 asg14
 (lp4887
-Vmelo
+Vhologram
 p4888
 aVpst
 p4889
 aVlip
 p4890
-aVhologram
+aVsigma
 p4891
-aVbeauti
+aVdoubl whammi
 p4892
 asg21
 VThe Internet Can't Handle These Hologram Lips
@@ -10469,15 +10469,15 @@ aVexcess drink
 p4903
 asg14
 (lp4904
-Valcohol
+Vcholesterol level
 p4905
-aVdrink
-p4906
 aVheart diseas
+p4906
+aValcohol
 p4907
-aVcholesterol level
+aVdrink moder
 p4908
-aVinflammatori marker
+aVexcess drink
 p4909
 asg21
 VThe Truth About Alcohol and Your Heart
@@ -10504,15 +10504,15 @@ aVelect coverag
 p4919
 asg14
 (lp4920
-Vdonald trump
+Vmegyn kelli
 p4921
-aVgreg gutfeld
+aVdonald trump
 p4922
-aVfox new
+aVfox
 p4923
-aVprimari
+aVeric boll
 p4924
-aVfriend
+aVelect coverag
 p4925
 asg21
 VMegyn Kelly Rebukes a Gloating Eric Bolling During Fox Election Coverage: Its Not About You
@@ -10540,11 +10540,11 @@ aVtransfer
 p4936
 asg14
 (lp4937
-Vfood processor
+Vred pepper
 p4938
-aVgarlic powder
+aVfood processor
 p4939
-aVpepper
+aVgarlic powder
 p4940
 aVmeatbal
 p4941
@@ -10584,7 +10584,7 @@ aVthrowback
 p4957
 aVvictoria secret
 p4958
-aVphoto
+aVfashion
 p4959
 asg21
 VKendall Jenner Has the Best Memories at Disneyland!
@@ -10616,11 +10616,11 @@ Vfast food
 p4972
 aVmcdonald
 p4973
-aVfood chain
-p4974
-aVmenu item
-p4975
 aVsecret menu
+p4974
+aVsandwich
+p4975
+aVfood chain
 p4976
 asg21
 VMcDonald's manager reveals one thing you should NEVER order from their menu
@@ -10647,15 +10647,15 @@ aVconflict
 p4986
 asg14
 (lp4987
-Vcold war
+Vworld war
 p4988
-aVvladimir putin
+aVdoorstep
 p4989
-aVsuperpow
+aVthousand
 p4990
-aVworld war
+aVconflict
 p4991
-aVcontinu conflict
+aVsuperpow
 p4992
 asg21
 VWW3 Alert: US Sends Thousands Of Soldiers To Attack Russia, Syria Warns Of New World War
@@ -10686,11 +10686,11 @@ Vtemperatur
 p5004
 aVbritain
 p5005
-aVheavi snow
+aVfreez
 p5006
-aVmeteorologist
+aVsnow fall
 p5007
-aVwinter
+aVheavi snow
 p5008
 asg21
 VSnow falls for the first time as big freeze sends temps plummeting to -14C
@@ -10718,15 +10718,15 @@ aVtarget
 p5019
 asg14
 (lp5020
-Villeg migrant
+Vdonald trump
 p5021
-aVinterview
+aVilleg migrant
 p5022
-aVdonald trump
+aVmillion
 p5023
-aVdrug dealer
+aVborder wall
 p5024
-aVbroadcast
+aVdrug dealer
 p5025
 asg21
 VTrump election: Up to three million migrants 'to be targeted'
