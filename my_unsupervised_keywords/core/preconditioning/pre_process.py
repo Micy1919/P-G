@@ -80,10 +80,21 @@ class PreProcess(object):
         else:
             return False
 
-    def __is_local_for_text(self, terms):
+    def __num_ratio(self, term, ratio):
+        count = 0.
+        flag = False
+        for t in term:
+            if self.__is_number(t):
+                count += 1
+        if count / len(term) > ratio:
+            flag = True
+        return flag
+
+    def __is_local_for_text(self, terms, ratio):
         """
         判断文本单词中是否是存在非local字符，如存在去除单词。
-        :param terms:
+        :param terms: 单词
+        :param ratio: 比率
         :return:
         """
         words = []
@@ -91,26 +102,31 @@ class PreProcess(object):
             flag = True
             term = term.decode("utf8")
             for w in term:
-                if not (self.__is_alphabet(w) or self.__is_number(w)) or term in self.common_words:
+                if not (self.__is_alphabet(w) or self.__is_number(w)):
                     flag = False
                     break
+            if term in self.common_words or self.__num_ratio(term, ratio):
+                flag = False
             if flag:
                 words.append(term)
         return words
 
-    def __is_local_for_phrase(self, terms):
+    def __is_local_for_phrase(self, terms, ratio):
         """
         判断候选短语单词中是否存在非local字符或者常用词， 如存在，则舍弃短语。
         :param terms: 候选短语单词
+        :param ratio: 比率
         :return:
         """
         flag = True
         for term in terms:
             term = term.decode("utf8")
             for w in term:
-                if not (self.__is_alphabet(w) or self.__is_number(w)) or term in self.common_words:
+                if not (self.__is_alphabet(w) or self.__is_number(w)):
                     flag = False
                     break
+            if term in self.common_words or self.__num_ratio(term, ratio):
+                flag = False
         if flag:
             return terms
         else:
@@ -124,7 +140,7 @@ class PreProcess(object):
         """
         phrase = self.__del_punctution(self.__del_special_terms(phrase.lower()))
         terms = self.__del_stopwords(self.__tokenize(phrase))
-        terms = self.__stem(self.__is_local_for_phrase(terms))
+        terms = self.__stem(self.__is_local_for_phrase(terms, ratio=0.6))
         return terms
 
     def text_process(self, text):
@@ -135,13 +151,15 @@ class PreProcess(object):
         """
         text = self.__del_punctution(self.__del_special_terms(text.lower()))
         terms = self.__del_stopwords(self.__tokenize(text))
-        terms = self.__stem(self.__is_local_for_text(terms))
+        terms = self.__stem(self.__is_local_for_text(terms, ratio=0.6))
         return terms
 
 
 if __name__ == "__main__":
-    text = "India vs Australia: Ravichandran Ashwin breaks Dale Steyn\u2019s record of most wickets in a Test season_line_ddddd six"
-    pp = PreProcess("punctuation.txt", "stopwords.txt", "common_words.txt", "special_terms.txt")
+    text = "India vs 333,22 Australia: Ravichandran Ashwin breaks Dale Steyn\u2019s record of most wickets in a Test season_line_ddddd six 7s 777s"
+    #path = "/Users/chenjun/PycharmProjects/KeyWords/pre_process/"
+    path = ''
+    pp = PreProcess(path+"punctuation.txt", path+"stopwords.txt", path+"common_words.txt", path+"special_terms.txt")
     terms = pp.text_process(text)
     print terms
     terms = pp.phrase_process(text)
