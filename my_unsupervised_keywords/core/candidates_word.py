@@ -46,7 +46,7 @@ class CandidateKeyword(object):
         """
         doc = self.nlp(title)
         for w in doc.noun_chunks:
-            token = ' '.join(self.analyzer.phrase_process(w.text.encode('utf-8')))
+            token = ' '.join(self.analyzer.text_process(w.text.encode('utf-8')))
             if not token or len(token.split()) > 3:
                 if deep:
                     self.__get_title_candidate(w.text, False)
@@ -56,12 +56,12 @@ class CandidateKeyword(object):
 
         for w in doc.ents:
             if w.label_ in self.no_ner_list:
-                token = ' '.join(self.analyzer.phrase_process(w.text.encode('utf-8')))
+                token = ' '.join(self.analyzer.text_process(w.text.encode('utf-8')))
                 if token in self.__candidate:
                     del self.__candidate[token]
                 continue
 
-            token = ' '.join(self.analyzer.phrase_process(w.text.encode('utf-8')))
+            token = ' '.join(self.analyzer.text_process(w.text.encode('utf-8')))
             if not token or len(token.split()) > 3:
                 if deep:
                     self.__get_title_candidate(w.text, False)
@@ -79,7 +79,7 @@ class CandidateKeyword(object):
         """
         doc = self.nlp(content)
         for w in doc.noun_chunks:
-            token = ' '.join(self.analyzer.phrase_process(w.text.encode('utf-8')))
+            token = ' '.join(self.analyzer.text_process(w.text.encode('utf-8')))
             if not token or len(token.split()) > 3:continue
             if token not in self.__candidate:
                 self.__candidate[token] = {'origin_word': w.text, 'feature':[0, 0, 0, [], 0, w.end,
@@ -91,12 +91,12 @@ class CandidateKeyword(object):
 
         for w in doc.ents:
             if w.label_ in self.no_ner_list:
-                token = ' '.join(self.analyzer.phrase_process(w.text.encode('utf-8')))
+                token = ' '.join(self.analyzer.text_process(w.text.encode('utf-8')))
                 if token in self.__candidate:
                     del self.__candidate[token]
                 continue
 
-            token = ' '.join(self.analyzer.phrase_process(w.text.encode('utf-8')))
+            token = ' '.join(self.analyzer.text_process(w.text.encode('utf-8')))
             if not token or len(token.split()) > 3:continue
             if token in self.__candidate:
                 self.__candidate[token]['feature'][1] = 1
@@ -119,13 +119,13 @@ class CandidateKeyword(object):
         for i in range(len(text_list) - 3):
             unigram = text_list[i]
             if self.city_dawg.has_key(unigram):
-                token = ' '.join(self.analyzer.phrase_process(unigram.encode('utf-8')))
+                token = ' '.join(self.analyzer.text_process(unigram.encode('utf-8')))
                 if token in self.__candidate:
                     self.__candidate[token]['feature'][8] = 1
                 else:
                     self.__candidate[token] =  {'origin_word': unigram,'feature':[0, 0, 0, [], 0, 0, 0, 0, 1, 0]}
             elif self.cele_dawg.has_key(unigram):
-                token = ' '.join(self.analyzer.phrase_process(unigram.encode('utf-8')))
+                token = ' '.join(self.analyzer.text_process(unigram.encode('utf-8')))
                 if token in self.__candidate:
                     self.__candidate[token]['feature'][9] = 1
                 else:
@@ -133,7 +133,7 @@ class CandidateKeyword(object):
 
             bigram = ' '.join(text_list[i: i+2])
             if self.cele_dawg.has_key(bigram):
-                token = ' '.join(self.analyzer.phrase_process(bigram.encode('utf-8')))
+                token = ' '.join(self.analyzer.text_process(bigram.encode('utf-8')))
                 if token in self.__candidate:
                     self.__candidate[token]['feature'][9] = 1
                 else:
@@ -141,7 +141,7 @@ class CandidateKeyword(object):
 
             trigram = ' '.join(text_list[i: i+3])
             if self.cele_dawg.has_key(trigram):
-                token = ' '.join(self.analyzer.phrase_process(trigram.encode('utf-8')))
+                token = ' '.join(self.analyzer.text_process(trigram.encode('utf-8')))
                 if token in self.__candidate:
                     self.__candidate[token]['feature'][9] = 1
                 else:
