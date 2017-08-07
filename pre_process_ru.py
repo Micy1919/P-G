@@ -13,6 +13,8 @@ class pre_process(object):
         self.punctuation = set([line.strip() for line in open(punctuation_file, "r")])
         self.stopwords = set([line.strip() for line in open(stopwords_file, "r")])
         self.special_terms = special_terms
+        self.__tokens = None
+        self.__content = []
     def __del_special_terms(self, text):
         """
         删除指定特殊字符。
@@ -48,34 +50,25 @@ class pre_process(object):
         :param text: 文本
         :return:
         """
-        tokens = tokenizer.tokenize(text)
-        return tokens
+        self.__tokens = tokenizer.tokenize(text)
 
-    def __del_stopwords(self, terms):
+    def __del_stopwords(self):
         """
         去除停用词。
         :param terms: 单词列表
         :return:
         """
-        terms = [term for term in terms if term not in self.stopwords]
-        return terms
+        self.__content = [term for term in self.__content if term[0] not in self.stopwords]
 
-    def __stem(self, tokens):
+    def __stem(self, ):
         """
         词干化。
         :param terms: 单词列表
         :return:
         """
-        terms = []
-        disambiguated = disambiguator.disambiguate(tokens)
+        disambiguated = disambiguator.disambiguate(self.__tokens)
         for item in disambiguated:
-            print (item.lemma,item.label)
-            lemma = self.__del_number(item.lemma)
-            terms.append(lemma)
-            if lemma not in dic:
-                dic[lemma] = set()
-            dic[lemma].add(self.__del_number(item.content))
-        return terms
+            self.__content.append((item.lemma,item.label.split('@')[0],item.content))
 
     def text_process(self, text):
         """
@@ -83,13 +76,16 @@ class pre_process(object):
         :param text: 文本, string
         :return:
         """
+        self.__content = []
         text = self.__del_punctution(self.__del_special_terms(text.lower()))
         if text.strip() == '':
             return []
-        terms = self.__stem(self.__tokenize(text))
-        terms = self.__del_stopwords(terms)
+        self.__tokenize(text)
+        self.__stem()
+        self.__del_stopwords()
         #terms = self.__stem(self.__is_local_for_text(terms))
-        return terms
+        return [w[0] for w in self.__content]
+
 
 if __name__ == '__main__':
     pp = pre_process("punctuation.txt", "stopwords.txt")
