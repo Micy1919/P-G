@@ -94,6 +94,10 @@ class Keywords(CandidateKeyword):
                     break
             self.__result = token_result
 
+    def __get_title_keyword(self):
+        self.__title = [(w[0],w[1]['origin_word'],w[1]['weight']) for w in self.__candidate.items()
+                        if w[1]['feature'][0]]
+
 
     def top_keywords_news(self,title, content, topK):
         """
@@ -108,7 +112,8 @@ class Keywords(CandidateKeyword):
         self.__candidate,doc_leng = CandidateKeyword.get_candidate_words(self,title,content)
         self.__feature_weight(doc_leng)
         self.__filter_result(topK)
-        return {w[0]:w[2] for w in self.__result}
+        self.__get_title_keyword()
+        return self.__result, self.__title
 
 if __name__ == '__main__':
     STOP_FILE = './data/ru/stopwords_ru.txt'
@@ -116,8 +121,15 @@ if __name__ == '__main__':
     COMMON_WORDS_FILE = './data/ru/common_words_ru.txt'
     SPECIAL_FILE = './data/ru/special_words_ru.txt'
 
+    key = PreProcess(PUN_FILE, STOP_FILE, COMMON_WORDS_FILE, SPECIAL_FILE)
+    key.phrase_process('v4.1.2')
     key_tool = Keywords(PUN_FILE, STOP_FILE, COMMON_WORDS_FILE, SPECIAL_FILE,'en')
-    title = u'Named entity recognition (NER) in Russian texts / Определение именованных сущностей (NER) в тексте на русском языке'
-    content = u'Named entity recognition (NER) in Russian texts / Определение именованных сущностей (NER) в тексте на русском языке'
-    print key_tool.top_keywords_news(title, content, 5).keys()
+
+    data = pickle.load(open('./data/in_240_evaluation_0730.pkl', 'r'))
+    for doc in data:
+        title = data[doc]['title']
+        content = data[doc]['content']
+        print doc
+        print [w[0] for w in data[doc]['new_model_stem']]
+        print key_tool.top_keywords_news(title, content, 5).keys()
 
