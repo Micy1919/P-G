@@ -14,8 +14,8 @@ class CandidateKeyword(object):
         self.analyzer = stem
         self.nlp = spacy_nlp#nltk_nlp
         self.no_ner_list = [u'CARDINAL', u'ORDINAL', u'DATE', u'LANGUAGE', u'MONEY', u'PERCENT', u'QUANTITY', u'TIME']
-        self.city_dawg = None#dawg.DAWG().load('./data/ru/city.dawg')
-        self.cele_dawg = None#dawg.DAWG().load('./data/ru/cele.dawg')
+        self.city_dawg =None #dawg.DAWG().load('./data/ru/city.dawg')
+        self.cele_dawg =None #dawg.DAWG().load('./data/ru/cele.dawg')
         self.idf = IDF
         self.terank = None
         self.__candidate = {}
@@ -237,7 +237,7 @@ class CandidateKeyword(object):
         ##text_rank feature
         #content_rank = self.analyzer.text_rank_process(content.encode('utf-8')) +self.analyzer.text_rank_process(title.encode('utf-8'))
         #self.terank.get_content(content_rank)
-        
+
         content_list = self.analyzer.text_process(content.encode('utf-8')) +self.analyzer.text_process(title.encode('utf-8'))
         doc_leng = len(content_list)
         self.__get_title_candidate(title)

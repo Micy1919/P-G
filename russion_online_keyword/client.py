@@ -1,18 +1,27 @@
 # -*- coding: utf-8 -*-
-import thriftpy
-import gflags
 import sys
-import pickle
-keywords_v2_thrift = thriftpy.load("keywords_v2.thrift", module_name="keywords_v2_thrift")
+sys.path.append('gen-py')
 
-from thriftpy.rpc import make_client
-from keywords_v2_thrift import *
+import gflags
+from keywords import FindKeywords
+from keywords.ttypes import *
+import gflags
+
+from thrift import Thrift
+from thrift.transport import TSocket
+from thrift.transport import TTransport
+from thrift.protocol import TBinaryProtocol
+
 
 def print_keyword_list(keywords):
-  result = []
-  for keyword in keywords.keywords:
-    result.append((keyword.term, keyword.score))
-  return result
+  sorted_keywords = sorted(keywords, key=lambda x: x.weight)
+  for keyword in sorted_keywords:
+    print keyword.term, keyword.weight, keyword.origin_format
+
+def print_entity_list(entities):
+  sorted_entities = sorted(entities, key=lambda x: x.weight)
+  for entity in sorted_entities:
+    print entity.origin_format, "---", entity.stem_format, entity.weight, entity.origin_score
 
 if __name__ == '__main__':
   gflags.DEFINE_string("host", "0.0.0.0", "server host")
@@ -30,20 +39,35 @@ if __name__ == '__main__':
   print host, port
 
   news = News()
+  '''
+  news.url = "www.google.com"
+  news.nid = "test_purpose_123456"
+  news.title = 'this is a new york city news'
+  news.main_content = u"Nahanni Fontaine\nSpecial adviser on Aboriginal women\u2019s issues for the government of Manitoba\nSagkeeng Anicinabe First Nation, lives in Winnipeg\nTo understand my journey, I must begin with my mother\u2019s story. \nMy maternal family is from the Sagkeeng First Nation, east of Winnipeg. My grandfather, Henry Charles Fontaine, was a Second World War veteran. After landing on the beaches of Normandy, he was captured by the Nazis, and spent nine months as a POW. Like most Aboriginal veterans, he was disenfranchised on his return to Canada. Soon after, he moved to Winnipeg to find work"
+'''
 
   news.url = "http://m.townhall.com/tipsheet/justinholcomb/2016/11/10/the-list-of-executive-orders-that-trump-will-dispose-of-immediately-n2243914"
   news.nid = "test_purpose_123456"
-  news.title = '''The List of Executive Orders that Trump Will Dispose of Immediately'''
-  news.main_content = '''Named entity recognition (NER) in Russian texts / Определение именованных сущностей (NER) в тексте на русском языке'''
-  data = pickle.load(open('./ru_evlauation_36_0808.pkl','r'))
-  client = make_client(keywords_v2_thrift.Keywords_v2, host, port)
-  for doc in data:
-    news.url = data[doc]['url']
-    news.nid = str(doc)
-    news.title = data[doc]['title']
-    news.main_content = data[doc]['content']
-    request = FindKeywordsRequest(news, 5)
-    request = client.find_keywords(request)
-    data[doc]['keyword'] = print_keyword_list(request)
-  pickle.dump(data,open('./ru_evlauation_36_0808_.pkl','w'))#print_keyword_list(response.keywords)
+  news.title = '''Named entity recognition (NER) in Russian texts / Определение именованных сущностей (NER) в тексте на русском языке'''
+  news.main_content ='''Named entity recognition (NER) in Russian texts / Определение именованных сущностей (NER) в тексте на русском языке'''
 
+  socket = TSocket.TSocket(host, port)
+  transport = TTransport.TBufferedTransport(socket)
+  protocol = TBinaryProtocol.TBinaryProtocol(transport)
+  client = FindKeywords.Client(protocol)
+  transport.open()
+
+  result = client.find_keywords(news, 10)
+
+  print "====== full keywords"
+  print_keyword_list(result.full_keywords)
+
+  print "====== title keywords"
+  print_keyword_list(result.title_keywords)
+
+  print "====== relevant entities"
+  print_entity_list(result.relevant_entities)
+
+  print "====== quality entities"
+  print_entity_list(result.quality_entities)
+  #print_keyword_list(response.keywords)
