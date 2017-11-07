@@ -19,8 +19,6 @@ class News(object):
      - nid
      - main_content
      - title
-     - url
-     - meta_keywords
     """
 
     thrift_spec = (
@@ -28,16 +26,12 @@ class News(object):
         (1, TType.STRING, 'nid', 'UTF8', None, ),  # 1
         (2, TType.STRING, 'main_content', 'UTF8', None, ),  # 2
         (3, TType.STRING, 'title', 'UTF8', None, ),  # 3
-        (4, TType.STRING, 'url', 'UTF8', None, ),  # 4
-        (5, TType.LIST, 'meta_keywords', (TType.STRING, 'UTF8', False), None, ),  # 5
     )
 
-    def __init__(self, nid=None, main_content=None, title=None, url=None, meta_keywords=None,):
+    def __init__(self, nid=None, main_content=None, title=None,):
         self.nid = nid
         self.main_content = main_content
         self.title = title
-        self.url = url
-        self.meta_keywords = meta_keywords
 
     def read(self, iprot):
         if iprot._fast_decode is not None and isinstance(iprot.trans, TTransport.CReadableTransport) and self.thrift_spec is not None:
@@ -63,21 +57,6 @@ class News(object):
                     self.title = iprot.readString().decode('utf-8') if sys.version_info[0] == 2 else iprot.readString()
                 else:
                     iprot.skip(ftype)
-            elif fid == 4:
-                if ftype == TType.STRING:
-                    self.url = iprot.readString().decode('utf-8') if sys.version_info[0] == 2 else iprot.readString()
-                else:
-                    iprot.skip(ftype)
-            elif fid == 5:
-                if ftype == TType.LIST:
-                    self.meta_keywords = []
-                    (_etype3, _size0) = iprot.readListBegin()
-                    for _i4 in range(_size0):
-                        _elem5 = iprot.readString().decode('utf-8') if sys.version_info[0] == 2 else iprot.readString()
-                        self.meta_keywords.append(_elem5)
-                    iprot.readListEnd()
-                else:
-                    iprot.skip(ftype)
             else:
                 iprot.skip(ftype)
             iprot.readFieldEnd()
@@ -99,17 +78,6 @@ class News(object):
         if self.title is not None:
             oprot.writeFieldBegin('title', TType.STRING, 3)
             oprot.writeString(self.title.encode('utf-8') if sys.version_info[0] == 2 else self.title)
-            oprot.writeFieldEnd()
-        if self.url is not None:
-            oprot.writeFieldBegin('url', TType.STRING, 4)
-            oprot.writeString(self.url.encode('utf-8') if sys.version_info[0] == 2 else self.url)
-            oprot.writeFieldEnd()
-        if self.meta_keywords is not None:
-            oprot.writeFieldBegin('meta_keywords', TType.LIST, 5)
-            oprot.writeListBegin(TType.STRING, len(self.meta_keywords))
-            for iter6 in self.meta_keywords:
-                oprot.writeString(iter6.encode('utf-8') if sys.version_info[0] == 2 else iter6)
-            oprot.writeListEnd()
             oprot.writeFieldEnd()
         oprot.writeFieldStop()
         oprot.writeStructEnd()
@@ -133,24 +101,18 @@ class Keyword(object):
     """
     Attributes:
      - term
-     - weight
-     - origin_format
-     - origin_score
+     - score
     """
 
     thrift_spec = (
         None,  # 0
         (1, TType.STRING, 'term', 'UTF8', None, ),  # 1
-        (2, TType.DOUBLE, 'weight', None, None, ),  # 2
-        (3, TType.STRING, 'origin_format', 'UTF8', None, ),  # 3
-        (4, TType.DOUBLE, 'origin_score', None, None, ),  # 4
+        (2, TType.DOUBLE, 'score', None, None, ),  # 2
     )
 
-    def __init__(self, term=None, weight=None, origin_format=None, origin_score=None,):
+    def __init__(self, term=None, score=None,):
         self.term = term
-        self.weight = weight
-        self.origin_format = origin_format
-        self.origin_score = origin_score
+        self.score = score
 
     def read(self, iprot):
         if iprot._fast_decode is not None and isinstance(iprot.trans, TTransport.CReadableTransport) and self.thrift_spec is not None:
@@ -168,17 +130,7 @@ class Keyword(object):
                     iprot.skip(ftype)
             elif fid == 2:
                 if ftype == TType.DOUBLE:
-                    self.weight = iprot.readDouble()
-                else:
-                    iprot.skip(ftype)
-            elif fid == 3:
-                if ftype == TType.STRING:
-                    self.origin_format = iprot.readString().decode('utf-8') if sys.version_info[0] == 2 else iprot.readString()
-                else:
-                    iprot.skip(ftype)
-            elif fid == 4:
-                if ftype == TType.DOUBLE:
-                    self.origin_score = iprot.readDouble()
+                    self.score = iprot.readDouble()
                 else:
                     iprot.skip(ftype)
             else:
@@ -195,17 +147,9 @@ class Keyword(object):
             oprot.writeFieldBegin('term', TType.STRING, 1)
             oprot.writeString(self.term.encode('utf-8') if sys.version_info[0] == 2 else self.term)
             oprot.writeFieldEnd()
-        if self.weight is not None:
-            oprot.writeFieldBegin('weight', TType.DOUBLE, 2)
-            oprot.writeDouble(self.weight)
-            oprot.writeFieldEnd()
-        if self.origin_format is not None:
-            oprot.writeFieldBegin('origin_format', TType.STRING, 3)
-            oprot.writeString(self.origin_format.encode('utf-8') if sys.version_info[0] == 2 else self.origin_format)
-            oprot.writeFieldEnd()
-        if self.origin_score is not None:
-            oprot.writeFieldBegin('origin_score', TType.DOUBLE, 4)
-            oprot.writeDouble(self.origin_score)
+        if self.score is not None:
+            oprot.writeFieldBegin('score', TType.DOUBLE, 2)
+            oprot.writeDouble(self.score)
             oprot.writeFieldEnd()
         oprot.writeFieldStop()
         oprot.writeStructEnd()
@@ -225,28 +169,19 @@ class Keyword(object):
         return not (self == other)
 
 
-class Entity(object):
+class FindKeywordsResponse(object):
     """
     Attributes:
-     - stem_format
-     - weight
-     - origin_format
-     - origin_score
+     - keywords
     """
 
     thrift_spec = (
         None,  # 0
-        (1, TType.STRING, 'stem_format', 'UTF8', None, ),  # 1
-        (2, TType.DOUBLE, 'weight', None, None, ),  # 2
-        (3, TType.STRING, 'origin_format', 'UTF8', None, ),  # 3
-        (4, TType.DOUBLE, 'origin_score', None, None, ),  # 4
+        (1, TType.LIST, 'keywords', (TType.STRUCT, (Keyword, Keyword.thrift_spec), False), None, ),  # 1
     )
 
-    def __init__(self, stem_format=None, weight=None, origin_format=None, origin_score=None,):
-        self.stem_format = stem_format
-        self.weight = weight
-        self.origin_format = origin_format
-        self.origin_score = origin_score
+    def __init__(self, keywords=None,):
+        self.keywords = keywords
 
     def read(self, iprot):
         if iprot._fast_decode is not None and isinstance(iprot.trans, TTransport.CReadableTransport) and self.thrift_spec is not None:
@@ -258,23 +193,14 @@ class Entity(object):
             if ftype == TType.STOP:
                 break
             if fid == 1:
-                if ftype == TType.STRING:
-                    self.stem_format = iprot.readString().decode('utf-8') if sys.version_info[0] == 2 else iprot.readString()
-                else:
-                    iprot.skip(ftype)
-            elif fid == 2:
-                if ftype == TType.DOUBLE:
-                    self.weight = iprot.readDouble()
-                else:
-                    iprot.skip(ftype)
-            elif fid == 3:
-                if ftype == TType.STRING:
-                    self.origin_format = iprot.readString().decode('utf-8') if sys.version_info[0] == 2 else iprot.readString()
-                else:
-                    iprot.skip(ftype)
-            elif fid == 4:
-                if ftype == TType.DOUBLE:
-                    self.origin_score = iprot.readDouble()
+                if ftype == TType.LIST:
+                    self.keywords = []
+                    (_etype3, _size0) = iprot.readListBegin()
+                    for _i4 in range(_size0):
+                        _elem5 = Keyword()
+                        _elem5.read(iprot)
+                        self.keywords.append(_elem5)
+                    iprot.readListEnd()
                 else:
                     iprot.skip(ftype)
             else:
@@ -286,22 +212,13 @@ class Entity(object):
         if oprot._fast_encode is not None and self.thrift_spec is not None:
             oprot.trans.write(oprot._fast_encode(self, (self.__class__, self.thrift_spec)))
             return
-        oprot.writeStructBegin('Entity')
-        if self.stem_format is not None:
-            oprot.writeFieldBegin('stem_format', TType.STRING, 1)
-            oprot.writeString(self.stem_format.encode('utf-8') if sys.version_info[0] == 2 else self.stem_format)
-            oprot.writeFieldEnd()
-        if self.weight is not None:
-            oprot.writeFieldBegin('weight', TType.DOUBLE, 2)
-            oprot.writeDouble(self.weight)
-            oprot.writeFieldEnd()
-        if self.origin_format is not None:
-            oprot.writeFieldBegin('origin_format', TType.STRING, 3)
-            oprot.writeString(self.origin_format.encode('utf-8') if sys.version_info[0] == 2 else self.origin_format)
-            oprot.writeFieldEnd()
-        if self.origin_score is not None:
-            oprot.writeFieldBegin('origin_score', TType.DOUBLE, 4)
-            oprot.writeDouble(self.origin_score)
+        oprot.writeStructBegin('FindKeywordsResponse')
+        if self.keywords is not None:
+            oprot.writeFieldBegin('keywords', TType.LIST, 1)
+            oprot.writeListBegin(TType.STRUCT, len(self.keywords))
+            for iter6 in self.keywords:
+                iter6.write(oprot)
+            oprot.writeListEnd()
             oprot.writeFieldEnd()
         oprot.writeFieldStop()
         oprot.writeStructEnd()
@@ -321,28 +238,22 @@ class Entity(object):
         return not (self == other)
 
 
-class KeywordResult(object):
+class FindKeywordsRequest(object):
     """
     Attributes:
-     - full_keywords
-     - title_keywords
-     - relevant_entities
-     - quality_entities
+     - news
+     - topK
     """
 
     thrift_spec = (
         None,  # 0
-        (1, TType.LIST, 'full_keywords', (TType.STRUCT, (Keyword, Keyword.thrift_spec), False), None, ),  # 1
-        (2, TType.LIST, 'title_keywords', (TType.STRUCT, (Keyword, Keyword.thrift_spec), False), None, ),  # 2
-        (3, TType.LIST, 'relevant_entities', (TType.STRUCT, (Entity, Entity.thrift_spec), False), None, ),  # 3
-        (4, TType.LIST, 'quality_entities', (TType.STRUCT, (Entity, Entity.thrift_spec), False), None, ),  # 4
+        (1, TType.STRUCT, 'news', (News, News.thrift_spec), None, ),  # 1
+        (2, TType.I32, 'topK', None, None, ),  # 2
     )
 
-    def __init__(self, full_keywords=None, title_keywords=None, relevant_entities=None, quality_entities=None,):
-        self.full_keywords = full_keywords
-        self.title_keywords = title_keywords
-        self.relevant_entities = relevant_entities
-        self.quality_entities = quality_entities
+    def __init__(self, news=None, topK=None,):
+        self.news = news
+        self.topK = topK
 
     def read(self, iprot):
         if iprot._fast_decode is not None and isinstance(iprot.trans, TTransport.CReadableTransport) and self.thrift_spec is not None:
@@ -354,47 +265,14 @@ class KeywordResult(object):
             if ftype == TType.STOP:
                 break
             if fid == 1:
-                if ftype == TType.LIST:
-                    self.full_keywords = []
-                    (_etype10, _size7) = iprot.readListBegin()
-                    for _i11 in range(_size7):
-                        _elem12 = Keyword()
-                        _elem12.read(iprot)
-                        self.full_keywords.append(_elem12)
-                    iprot.readListEnd()
+                if ftype == TType.STRUCT:
+                    self.news = News()
+                    self.news.read(iprot)
                 else:
                     iprot.skip(ftype)
             elif fid == 2:
-                if ftype == TType.LIST:
-                    self.title_keywords = []
-                    (_etype16, _size13) = iprot.readListBegin()
-                    for _i17 in range(_size13):
-                        _elem18 = Keyword()
-                        _elem18.read(iprot)
-                        self.title_keywords.append(_elem18)
-                    iprot.readListEnd()
-                else:
-                    iprot.skip(ftype)
-            elif fid == 3:
-                if ftype == TType.LIST:
-                    self.relevant_entities = []
-                    (_etype22, _size19) = iprot.readListBegin()
-                    for _i23 in range(_size19):
-                        _elem24 = Entity()
-                        _elem24.read(iprot)
-                        self.relevant_entities.append(_elem24)
-                    iprot.readListEnd()
-                else:
-                    iprot.skip(ftype)
-            elif fid == 4:
-                if ftype == TType.LIST:
-                    self.quality_entities = []
-                    (_etype28, _size25) = iprot.readListBegin()
-                    for _i29 in range(_size25):
-                        _elem30 = Entity()
-                        _elem30.read(iprot)
-                        self.quality_entities.append(_elem30)
-                    iprot.readListEnd()
+                if ftype == TType.I32:
+                    self.topK = iprot.readI32()
                 else:
                     iprot.skip(ftype)
             else:
@@ -406,34 +284,14 @@ class KeywordResult(object):
         if oprot._fast_encode is not None and self.thrift_spec is not None:
             oprot.trans.write(oprot._fast_encode(self, (self.__class__, self.thrift_spec)))
             return
-        oprot.writeStructBegin('KeywordResult')
-        if self.full_keywords is not None:
-            oprot.writeFieldBegin('full_keywords', TType.LIST, 1)
-            oprot.writeListBegin(TType.STRUCT, len(self.full_keywords))
-            for iter31 in self.full_keywords:
-                iter31.write(oprot)
-            oprot.writeListEnd()
+        oprot.writeStructBegin('FindKeywordsRequest')
+        if self.news is not None:
+            oprot.writeFieldBegin('news', TType.STRUCT, 1)
+            self.news.write(oprot)
             oprot.writeFieldEnd()
-        if self.title_keywords is not None:
-            oprot.writeFieldBegin('title_keywords', TType.LIST, 2)
-            oprot.writeListBegin(TType.STRUCT, len(self.title_keywords))
-            for iter32 in self.title_keywords:
-                iter32.write(oprot)
-            oprot.writeListEnd()
-            oprot.writeFieldEnd()
-        if self.relevant_entities is not None:
-            oprot.writeFieldBegin('relevant_entities', TType.LIST, 3)
-            oprot.writeListBegin(TType.STRUCT, len(self.relevant_entities))
-            for iter33 in self.relevant_entities:
-                iter33.write(oprot)
-            oprot.writeListEnd()
-            oprot.writeFieldEnd()
-        if self.quality_entities is not None:
-            oprot.writeFieldBegin('quality_entities', TType.LIST, 4)
-            oprot.writeListBegin(TType.STRUCT, len(self.quality_entities))
-            for iter34 in self.quality_entities:
-                iter34.write(oprot)
-            oprot.writeListEnd()
+        if self.topK is not None:
+            oprot.writeFieldBegin('topK', TType.I32, 2)
+            oprot.writeI32(self.topK)
             oprot.writeFieldEnd()
         oprot.writeFieldStop()
         oprot.writeStructEnd()

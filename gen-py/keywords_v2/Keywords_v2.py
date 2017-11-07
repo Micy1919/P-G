@@ -16,11 +16,10 @@ from thrift.transport import TTransport
 
 
 class Iface(object):
-    def find_keywords(self, news, topK):
+    def find_keywords(self, request):
         """
         Parameters:
-         - news
-         - topK
+         - request
         """
         pass
 
@@ -32,20 +31,18 @@ class Client(Iface):
             self._oprot = oprot
         self._seqid = 0
 
-    def find_keywords(self, news, topK):
+    def find_keywords(self, request):
         """
         Parameters:
-         - news
-         - topK
+         - request
         """
-        self.send_find_keywords(news, topK)
+        self.send_find_keywords(request)
         return self.recv_find_keywords()
 
-    def send_find_keywords(self, news, topK):
+    def send_find_keywords(self, request):
         self._oprot.writeMessageBegin('find_keywords', TMessageType.CALL, self._seqid)
         args = find_keywords_args()
-        args.news = news
-        args.topK = topK
+        args.request = request
         args.write(self._oprot)
         self._oprot.writeMessageEnd()
         self._oprot.trans.flush()
@@ -93,7 +90,7 @@ class Processor(Iface, TProcessor):
         iprot.readMessageEnd()
         result = find_keywords_result()
         try:
-            result.success = self._handler.find_keywords(args.news, args.topK)
+            result.success = self._handler.find_keywords(args.request)
             msg_type = TMessageType.REPLY
         except (TTransport.TTransportException, KeyboardInterrupt, SystemExit):
             raise
@@ -112,19 +109,16 @@ class Processor(Iface, TProcessor):
 class find_keywords_args(object):
     """
     Attributes:
-     - news
-     - topK
+     - request
     """
 
     thrift_spec = (
         None,  # 0
-        (1, TType.STRUCT, 'news', (News, News.thrift_spec), None, ),  # 1
-        (2, TType.I32, 'topK', None, None, ),  # 2
+        (1, TType.STRUCT, 'request', (FindKeywordsRequest, FindKeywordsRequest.thrift_spec), None, ),  # 1
     )
 
-    def __init__(self, news=None, topK=None,):
-        self.news = news
-        self.topK = topK
+    def __init__(self, request=None,):
+        self.request = request
 
     def read(self, iprot):
         if iprot._fast_decode is not None and isinstance(iprot.trans, TTransport.CReadableTransport) and self.thrift_spec is not None:
@@ -137,13 +131,8 @@ class find_keywords_args(object):
                 break
             if fid == 1:
                 if ftype == TType.STRUCT:
-                    self.news = News()
-                    self.news.read(iprot)
-                else:
-                    iprot.skip(ftype)
-            elif fid == 2:
-                if ftype == TType.I32:
-                    self.topK = iprot.readI32()
+                    self.request = FindKeywordsRequest()
+                    self.request.read(iprot)
                 else:
                     iprot.skip(ftype)
             else:
@@ -156,13 +145,9 @@ class find_keywords_args(object):
             oprot.trans.write(oprot._fast_encode(self, (self.__class__, self.thrift_spec)))
             return
         oprot.writeStructBegin('find_keywords_args')
-        if self.news is not None:
-            oprot.writeFieldBegin('news', TType.STRUCT, 1)
-            self.news.write(oprot)
-            oprot.writeFieldEnd()
-        if self.topK is not None:
-            oprot.writeFieldBegin('topK', TType.I32, 2)
-            oprot.writeI32(self.topK)
+        if self.request is not None:
+            oprot.writeFieldBegin('request', TType.STRUCT, 1)
+            self.request.write(oprot)
             oprot.writeFieldEnd()
         oprot.writeFieldStop()
         oprot.writeStructEnd()
@@ -189,7 +174,7 @@ class find_keywords_result(object):
     """
 
     thrift_spec = (
-        (0, TType.STRUCT, 'success', (KeywordResult, KeywordResult.thrift_spec), None, ),  # 0
+        (0, TType.STRUCT, 'success', (FindKeywordsResponse, FindKeywordsResponse.thrift_spec), None, ),  # 0
     )
 
     def __init__(self, success=None,):
@@ -206,7 +191,7 @@ class find_keywords_result(object):
                 break
             if fid == 0:
                 if ftype == TType.STRUCT:
-                    self.success = KeywordResult()
+                    self.success = FindKeywordsResponse()
                     self.success.read(iprot)
                 else:
                     iprot.skip(ftype)
