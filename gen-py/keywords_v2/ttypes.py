@@ -242,18 +242,15 @@ class FindKeywordsRequest(object):
     """
     Attributes:
      - news
-     - topK
     """
 
     thrift_spec = (
         None,  # 0
         (1, TType.STRUCT, 'news', (News, News.thrift_spec), None, ),  # 1
-        (2, TType.I32, 'topK', None, None, ),  # 2
     )
 
-    def __init__(self, news=None, topK=None,):
+    def __init__(self, news=None,):
         self.news = news
-        self.topK = topK
 
     def read(self, iprot):
         if iprot._fast_decode is not None and isinstance(iprot.trans, TTransport.CReadableTransport) and self.thrift_spec is not None:
@@ -270,11 +267,6 @@ class FindKeywordsRequest(object):
                     self.news.read(iprot)
                 else:
                     iprot.skip(ftype)
-            elif fid == 2:
-                if ftype == TType.I32:
-                    self.topK = iprot.readI32()
-                else:
-                    iprot.skip(ftype)
             else:
                 iprot.skip(ftype)
             iprot.readFieldEnd()
@@ -288,10 +280,6 @@ class FindKeywordsRequest(object):
         if self.news is not None:
             oprot.writeFieldBegin('news', TType.STRUCT, 1)
             self.news.write(oprot)
-            oprot.writeFieldEnd()
-        if self.topK is not None:
-            oprot.writeFieldBegin('topK', TType.I32, 2)
-            oprot.writeI32(self.topK)
             oprot.writeFieldEnd()
         oprot.writeFieldStop()
         oprot.writeStructEnd()
