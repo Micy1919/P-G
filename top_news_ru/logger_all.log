@@ -1,0 +1,145 @@
+INFO:kafka.client:Bootstrapping cluster metadata from [('172.17.40.253', 9092, 2), ('172.17.41.0', 9092, 2), ('172.17.41.11', 9092, 2), ('172.17.41.16', 9092, 2), ('172.17.41.14', 9092, 2), ('172.17.40.95', 9092, 2), ('172.17.40.85', 9092, 2), ('172.17.41.18', 9092, 2), ('172.17.41.9', 9092, 2), ('172.17.40.247', 9092, 2), ('172.17.41.19', 9092, 2), ('172.17.40.255', 9092, 2), ('172.17.41.23', 9092, 2), ('172.17.41.21', 9092, 2), ('172.17.41.3', 9092, 2)]
+INFO:kafka.conn:<BrokerConnection node_id=bootstrap host=172.17.40.253/172.17.40.253 port=9092>: connecting to 172.17.40.253:9092
+INFO:kafka.client:Bootstrap succeeded: found 20 brokers and 77 topics.
+INFO:kafka.conn:<BrokerConnection node_id=bootstrap host=172.17.40.253/172.17.40.253 port=9092>: Closing connection. 
+INFO:kafka.conn:<BrokerConnection node_id=15 host=103.83.123.47/103.83.123.47 port=9092>: connecting to 103.83.123.47:9092
+INFO:kafka.conn:Broker version identifed as 0.10.0
+INFO:kafka.conn:Set configuration api_version=(0, 10, 0) to skip auto check_version requests on startup
+INFO:kafka.consumer.subscription_state:Updating subscribed topics to: ('processed_news_id',)
+INFO:kafka.conn:<BrokerConnection node_id=6 host=103.83.123.24/103.83.123.24 port=9092>: connecting to 103.83.123.24:9092
+INFO:kafka.conn:<BrokerConnection node_id=14 host=103.83.123.38/103.83.123.38 port=9092>: connecting to 103.83.123.38:9092
+INFO:kafka.conn:<BrokerConnection node_id=0 host=103.83.123.4/103.83.123.4 port=9092>: connecting to 103.83.123.4:9092
+INFO:kafka.conn:<BrokerConnection node_id=17 host=103.83.123.50/103.83.123.50 port=9092>: connecting to 103.83.123.50:9092
+INFO:kafka.cluster:Group coordinator for news_streaming_clustering_prime_ru_all is BrokerMetadata(nodeId=13, host=u'103.83.123.33', port=9092, rack=None)
+INFO:kafka.coordinator:Discovered coordinator 13 for group news_streaming_clustering_prime_ru_all
+INFO:kafka.conn:<BrokerConnection node_id=13 host=103.83.123.33/103.83.123.33 port=9092>: connecting to 103.83.123.33:9092
+INFO:kafka.coordinator.consumer:Revoking previously assigned partitions set([]) for group news_streaming_clustering_prime_ru_all
+INFO:kafka.coordinator:(Re-)joining group news_streaming_clustering_prime_ru_all
+INFO:kafka.coordinator:Joined group 'news_streaming_clustering_prime_ru_all' (generation 1) with member_id kafka-python-1.3.3-7df97cbb-74cc-44e8-82c9-6ad46e679533
+INFO:kafka.coordinator:Elected group leader -- performing partition assignments using range
+INFO:kafka.coordinator:Successfully joined group news_streaming_clustering_prime_ru_all with generation 1
+INFO:kafka.consumer.subscription_state:Updated partition assignment: [TopicPartition(topic=u'processed_news_id', partition=0), TopicPartition(topic=u'processed_news_id', partition=1), TopicPartition(topic=u'processed_news_id', partition=2), TopicPartition(topic=u'processed_news_id', partition=3), TopicPartition(topic=u'processed_news_id', partition=4), TopicPartition(topic=u'processed_news_id', partition=5), TopicPartition(topic=u'processed_news_id', partition=6), TopicPartition(topic=u'processed_news_id', partition=7), TopicPartition(topic=u'processed_news_id', partition=8), TopicPartition(topic=u'processed_news_id', partition=9), TopicPartition(topic=u'processed_news_id', partition=10), TopicPartition(topic=u'processed_news_id', partition=11)]
+INFO:kafka.coordinator.consumer:Setting newly assigned partitions set([TopicPartition(topic=u'processed_news_id', partition=3), TopicPartition(topic=u'processed_news_id', partition=0), TopicPartition(topic=u'processed_news_id', partition=1), TopicPartition(topic=u'processed_news_id', partition=6), TopicPartition(topic=u'processed_news_id', partition=7), TopicPartition(topic=u'processed_news_id', partition=4), TopicPartition(topic=u'processed_news_id', partition=5), TopicPartition(topic=u'processed_news_id', partition=10), TopicPartition(topic=u'processed_news_id', partition=11), TopicPartition(topic=u'processed_news_id', partition=8), TopicPartition(topic=u'processed_news_id', partition=2), TopicPartition(topic=u'processed_news_id', partition=9)]) for group news_streaming_clustering_prime_ru_all
+INFO:kafka.conn:<BrokerConnection node_id=9 host=103.83.123.8/103.83.123.8 port=9092>: connecting to 103.83.123.8:9092
+INFO:kafka.conn:<BrokerConnection node_id=1 host=103.83.123.13/103.83.123.13 port=9092>: connecting to 103.83.123.13:9092
+INFO:kafka.conn:<BrokerConnection node_id=3 host=103.83.123.20/103.83.123.20 port=9092>: connecting to 103.83.123.20:9092
+INFO:kafka.conn:<BrokerConnection node_id=5 host=103.83.123.9/103.83.123.9 port=9092>: connecting to 103.83.123.9:9092
+INFO:kafka.conn:<BrokerConnection node_id=12 host=103.83.123.31/103.83.123.31 port=9092>: connecting to 103.83.123.31:9092
+INFO:kafka.conn:<BrokerConnection node_id=2 host=103.83.123.21/103.83.123.21 port=9092>: connecting to 103.83.123.21:9092
+INFO:kafka.conn:<BrokerConnection node_id=8 host=103.83.123.14/103.83.123.14 port=9092>: connecting to 103.83.123.14:9092
+INFO:kafka.conn:<BrokerConnection node_id=10 host=103.83.123.37/103.83.123.37 port=9092>: connecting to 103.83.123.37:9092
+INFO:kafka.conn:<BrokerConnection node_id=17 host=103.83.123.50/103.83.123.50 port=9092>: Closing connection. ConnectionError: Socket EVENT_READ without in-flight-requests
+WARNING:kafka.client:Node 17 connection failed -- refreshing metadata
+INFO:kafka.client:Bootstrapping cluster metadata from [('172.17.41.11', 9092, 2), ('172.17.41.16', 9092, 2), ('172.17.40.253', 9092, 2), ('172.17.41.19', 9092, 2), ('172.17.40.95', 9092, 2), ('172.17.40.247', 9092, 2), ('172.17.40.255', 9092, 2), ('172.17.40.85', 9092, 2), ('172.17.41.23', 9092, 2), ('172.17.41.0', 9092, 2), ('172.17.41.9', 9092, 2), ('172.17.41.3', 9092, 2), ('172.17.41.21', 9092, 2), ('172.17.41.14', 9092, 2), ('172.17.41.18', 9092, 2)]
+INFO:kafka.conn:<BrokerConnection node_id=bootstrap host=172.17.41.11/172.17.41.11 port=9092>: connecting to 172.17.41.11:9092
+INFO:kafka.client:Bootstrap succeeded: found 20 brokers and 77 topics.
+INFO:kafka.conn:<BrokerConnection node_id=bootstrap host=172.17.41.11/172.17.41.11 port=9092>: Closing connection. 
+INFO:kafka.conn:<BrokerConnection node_id=7 host=103.83.123.32/103.83.123.32 port=9092>: connecting to 103.83.123.32:9092
+INFO:kafka.conn:Broker version identifed as 0.10.0
+INFO:kafka.conn:Set configuration api_version=(0, 10, 0) to skip auto check_version requests on startup
+INFO:kafka.consumer.subscription_state:Updating subscribed topics to: ('processed_news_in',)
+INFO:kafka.conn:<BrokerConnection node_id=11 host=103.83.123.36/103.83.123.36 port=9092>: connecting to 103.83.123.36:9092
+INFO:kafka.conn:<BrokerConnection node_id=0 host=103.83.123.4/103.83.123.4 port=9092>: connecting to 103.83.123.4:9092
+INFO:kafka.cluster:Group coordinator for news_streaming_clustering_prime_ru_all is BrokerMetadata(nodeId=13, host=u'103.83.123.33', port=9092, rack=None)
+INFO:kafka.coordinator:Discovered coordinator 13 for group news_streaming_clustering_prime_ru_all
+INFO:kafka.conn:<BrokerConnection node_id=13 host=103.83.123.33/103.83.123.33 port=9092>: connecting to 103.83.123.33:9092
+INFO:kafka.coordinator.consumer:Revoking previously assigned partitions set([]) for group news_streaming_clustering_prime_ru_all
+INFO:kafka.coordinator:(Re-)joining group news_streaming_clustering_prime_ru_all
+INFO:kafka.coordinator:Joined group 'news_streaming_clustering_prime_ru_all' (generation 2) with member_id kafka-python-1.3.3-67ee5f3d-ffe1-442f-bfe9-787deee4724f
+INFO:kafka.coordinator:Elected group leader -- performing partition assignments using range
+INFO:kafka.coordinator:Successfully joined group news_streaming_clustering_prime_ru_all with generation 2
+INFO:kafka.consumer.subscription_state:Updated partition assignment: [TopicPartition(topic=u'processed_news_in', partition=0), TopicPartition(topic=u'processed_news_in', partition=1), TopicPartition(topic=u'processed_news_in', partition=2), TopicPartition(topic=u'processed_news_in', partition=3), TopicPartition(topic=u'processed_news_in', partition=4), TopicPartition(topic=u'processed_news_in', partition=5), TopicPartition(topic=u'processed_news_in', partition=6), TopicPartition(topic=u'processed_news_in', partition=7), TopicPartition(topic=u'processed_news_in', partition=8), TopicPartition(topic=u'processed_news_in', partition=9), TopicPartition(topic=u'processed_news_in', partition=10), TopicPartition(topic=u'processed_news_in', partition=11)]
+INFO:kafka.coordinator.consumer:Setting newly assigned partitions set([TopicPartition(topic=u'processed_news_in', partition=1), TopicPartition(topic=u'processed_news_in', partition=2), TopicPartition(topic=u'processed_news_in', partition=3), TopicPartition(topic=u'processed_news_in', partition=4), TopicPartition(topic=u'processed_news_in', partition=5), TopicPartition(topic=u'processed_news_in', partition=6), TopicPartition(topic=u'processed_news_in', partition=7), TopicPartition(topic=u'processed_news_in', partition=8), TopicPartition(topic=u'processed_news_in', partition=9), TopicPartition(topic=u'processed_news_in', partition=10), TopicPartition(topic=u'processed_news_in', partition=0), TopicPartition(topic=u'processed_news_in', partition=11)]) for group news_streaming_clustering_prime_ru_all
+INFO:kafka.conn:<BrokerConnection node_id=14 host=103.83.123.38/103.83.123.38 port=9092>: connecting to 103.83.123.38:9092
+INFO:kafka.conn:<BrokerConnection node_id=1 host=103.83.123.13/103.83.123.13 port=9092>: connecting to 103.83.123.13:9092
+INFO:kafka.conn:<BrokerConnection node_id=2 host=103.83.123.21/103.83.123.21 port=9092>: connecting to 103.83.123.21:9092
+INFO:kafka.conn:<BrokerConnection node_id=3 host=103.83.123.20/103.83.123.20 port=9092>: connecting to 103.83.123.20:9092
+INFO:kafka.conn:<BrokerConnection node_id=4 host=103.83.123.10/103.83.123.10 port=9092>: connecting to 103.83.123.10:9092
+INFO:kafka.conn:<BrokerConnection node_id=5 host=103.83.123.9/103.83.123.9 port=9092>: connecting to 103.83.123.9:9092
+INFO:kafka.conn:<BrokerConnection node_id=6 host=103.83.123.24/103.83.123.24 port=9092>: connecting to 103.83.123.24:9092
+INFO:kafka.conn:<BrokerConnection node_id=8 host=103.83.123.14/103.83.123.14 port=9092>: connecting to 103.83.123.14:9092
+INFO:kafka.conn:<BrokerConnection node_id=9 host=103.83.123.8/103.83.123.8 port=9092>: connecting to 103.83.123.8:9092
+WARNING:kafka.coordinator:Marking the coordinator dead (node 13) for group news_streaming_clustering_prime_ru_all: [Error 7] RequestTimedOutError.
+WARNING:kafka.coordinator:Coordinator unknown during heartbeat -- will retry
+WARNING:kafka.coordinator:Heartbeat failed ([Error 15] GroupCoordinatorNotAvailableError); retrying
+INFO:kafka.cluster:Group coordinator for news_streaming_clustering_prime_ru_all is BrokerMetadata(nodeId=13, host=u'103.83.123.33', port=9092, rack=None)
+INFO:kafka.coordinator:Discovered coordinator 13 for group news_streaming_clustering_prime_ru_all
+WARNING:kafka.coordinator:Marking the coordinator dead (node 13) for group news_streaming_clustering_prime_ru_all: [Error 7] RequestTimedOutError.
+WARNING:kafka.coordinator:Coordinator unknown during heartbeat -- will retry
+WARNING:kafka.coordinator:Heartbeat failed ([Error 15] GroupCoordinatorNotAvailableError); retrying
+INFO:kafka.cluster:Group coordinator for news_streaming_clustering_prime_ru_all is BrokerMetadata(nodeId=13, host=u'103.83.123.33', port=9092, rack=None)
+INFO:kafka.coordinator:Discovered coordinator 13 for group news_streaming_clustering_prime_ru_all
+WARNING:kafka.coordinator:Marking the coordinator dead (node 13) for group news_streaming_clustering_prime_ru_all: [Error 7] RequestTimedOutError.
+INFO:kafka.cluster:Group coordinator for news_streaming_clustering_prime_ru_all is BrokerMetadata(nodeId=13, host=u'103.83.123.33', port=9092, rack=None)
+INFO:kafka.coordinator:Discovered coordinator 13 for group news_streaming_clustering_prime_ru_all
+INFO:kafka.conn:<BrokerConnection node_id=11 host=103.83.123.36/103.83.123.36 port=9092>: Closing connection. ConnectionError: Socket EVENT_READ without in-flight-requests
+WARNING:kafka.client:Node 11 connection failed -- refreshing metadata
+INFO:kafka.conn:<BrokerConnection node_id=15 host=103.83.123.47/103.83.123.47 port=9092>: connecting to 103.83.123.47:9092
+INFO:kafka.conn:<BrokerConnection node_id=19 host=103.83.123.49/103.83.123.49 port=9092>: connecting to 103.83.123.49:9092
+INFO:kafka.conn:<BrokerConnection node_id=15 host=103.83.123.47/103.83.123.47 port=9092>: Closing connection. ConnectionError: Socket EVENT_READ without in-flight-requests
+WARNING:kafka.client:Node 15 connection failed -- refreshing metadata
+WARNING:kafka.coordinator:Marking the coordinator dead (node 13) for group news_streaming_clustering_prime_ru_all: [Error 7] RequestTimedOutError.
+WARNING:kafka.coordinator:Coordinator unknown during heartbeat -- will retry
+WARNING:kafka.coordinator:Heartbeat failed ([Error 15] GroupCoordinatorNotAvailableError); retrying
+INFO:kafka.cluster:Group coordinator for news_streaming_clustering_prime_ru_all is BrokerMetadata(nodeId=13, host=u'103.83.123.33', port=9092, rack=None)
+INFO:kafka.coordinator:Discovered coordinator 13 for group news_streaming_clustering_prime_ru_all
+WARNING:kafka.client:<BrokerConnection node_id=6 host=103.83.123.24/103.83.123.24 port=9092> timed out after 40000 ms. Closing connection.
+INFO:kafka.conn:<BrokerConnection node_id=6 host=103.83.123.24/103.83.123.24 port=9092>: Closing connection. [Error 7] RequestTimedOutError: Request timed out after 40000 ms
+WARNING:kafka.client:Node 6 connection failed -- refreshing metadata
+ERROR:kafka.consumer.fetcher:Fetch to node 6 failed: [Error 7] RequestTimedOutError: Request timed out after 40000 ms
+WARNING:kafka.client:<BrokerConnection node_id=7 host=103.83.123.32/103.83.123.32 port=9092> timed out after 40000 ms. Closing connection.
+INFO:kafka.conn:<BrokerConnection node_id=7 host=103.83.123.32/103.83.123.32 port=9092>: Closing connection. [Error 7] RequestTimedOutError: Request timed out after 40000 ms
+WARNING:kafka.client:Node 7 connection failed -- refreshing metadata
+ERROR:kafka.consumer.fetcher:Fetch to node 7 failed: [Error 7] RequestTimedOutError: Request timed out after 40000 ms
+INFO:kafka.conn:<BrokerConnection node_id=6 host=103.83.123.24/103.83.123.24 port=9092>: connecting to 103.83.123.24:9092
+INFO:kafka.conn:<BrokerConnection node_id=7 host=103.83.123.32/103.83.123.32 port=9092>: connecting to 103.83.123.32:9092
+WARNING:kafka.client:<BrokerConnection node_id=1 host=103.83.123.13/103.83.123.13 port=9092> timed out after 40000 ms. Closing connection.
+INFO:kafka.conn:<BrokerConnection node_id=1 host=103.83.123.13/103.83.123.13 port=9092>: Closing connection. [Error 7] RequestTimedOutError: Request timed out after 40000 ms
+WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+ERROR:kafka.consumer.fetcher:Fetch to node 1 failed: [Error 7] RequestTimedOutError: Request timed out after 40000 ms
+WARNING:kafka.client:<BrokerConnection node_id=4 host=103.83.123.10/103.83.123.10 port=9092> timed out after 40000 ms. Closing connection.
+INFO:kafka.conn:<BrokerConnection node_id=4 host=103.83.123.10/103.83.123.10 port=9092>: Closing connection. [Error 7] RequestTimedOutError: Request timed out after 40000 ms
+WARNING:kafka.client:Node 4 connection failed -- refreshing metadata
+ERROR:kafka.consumer.fetcher:Fetch to node 4 failed: [Error 7] RequestTimedOutError: Request timed out after 40000 ms
+INFO:kafka.conn:<BrokerConnection node_id=1 host=103.83.123.13/103.83.123.13 port=9092>: connecting to 103.83.123.13:9092
+INFO:kafka.conn:<BrokerConnection node_id=4 host=103.83.123.10/103.83.123.10 port=9092>: connecting to 103.83.123.10:9092
+WARNING:kafka.client:<BrokerConnection node_id=9 host=103.83.123.8/103.83.123.8 port=9092> timed out after 40000 ms. Closing connection.
+INFO:kafka.conn:<BrokerConnection node_id=9 host=103.83.123.8/103.83.123.8 port=9092>: Closing connection. [Error 7] RequestTimedOutError: Request timed out after 40000 ms
+WARNING:kafka.client:Node 9 connection failed -- refreshing metadata
+ERROR:kafka.consumer.fetcher:Fetch to node 9 failed: [Error 7] RequestTimedOutError: Request timed out after 40000 ms
+WARNING:kafka.client:<BrokerConnection node_id=14 host=103.83.123.38/103.83.123.38 port=9092> timed out after 40000 ms. Closing connection.
+INFO:kafka.conn:<BrokerConnection node_id=14 host=103.83.123.38/103.83.123.38 port=9092>: Closing connection. [Error 7] RequestTimedOutError: Request timed out after 40000 ms
+WARNING:kafka.client:Node 14 connection failed -- refreshing metadata
+ERROR:kafka.consumer.fetcher:Fetch to node 14 failed: [Error 7] RequestTimedOutError: Request timed out after 40000 ms
+INFO:kafka.conn:<BrokerConnection node_id=9 host=103.83.123.8/103.83.123.8 port=9092>: connecting to 103.83.123.8:9092
+INFO:kafka.conn:<BrokerConnection node_id=14 host=103.83.123.38/103.83.123.38 port=9092>: connecting to 103.83.123.38:9092
+ERROR:kafka.conn:Connection attempt to <BrokerConnection node_id=7 host=103.83.123.32/103.83.123.32 port=9092> timed out
+INFO:kafka.conn:<BrokerConnection node_id=7 host=103.83.123.32/103.83.123.32 port=9092>: Closing connection. ConnectionError: timeout
+WARNING:kafka.client:Node 7 connection failed -- refreshing metadata
+INFO:kafka.conn:<BrokerConnection node_id=7 host=103.83.123.32/103.83.123.32 port=9092>: connecting to 103.83.123.32:9092
+WARNING:kafka.client:<BrokerConnection node_id=8 host=103.83.123.14/103.83.123.14 port=9092> timed out after 40000 ms. Closing connection.
+INFO:kafka.conn:<BrokerConnection node_id=8 host=103.83.123.14/103.83.123.14 port=9092>: Closing connection. [Error 7] RequestTimedOutError: Request timed out after 40000 ms
+WARNING:kafka.client:Node 8 connection failed -- refreshing metadata
+ERROR:kafka.consumer.fetcher:Fetch to node 8 failed: [Error 7] RequestTimedOutError: Request timed out after 40000 ms
+INFO:kafka.conn:<BrokerConnection node_id=8 host=103.83.123.14/103.83.123.14 port=9092>: connecting to 103.83.123.14:9092
+WARNING:kafka.coordinator:Marking the coordinator dead (node 13) for group news_streaming_clustering_prime_ru_all: [Error 7] RequestTimedOutError.
+INFO:kafka.cluster:Group coordinator for news_streaming_clustering_prime_ru_all is BrokerMetadata(nodeId=13, host=u'103.83.123.33', port=9092, rack=None)
+INFO:kafka.coordinator:Discovered coordinator 13 for group news_streaming_clustering_prime_ru_all
+INFO:kafka.conn:<BrokerConnection node_id=19 host=103.83.123.49/103.83.123.49 port=9092>: Closing connection. ConnectionError: Socket EVENT_READ without in-flight-requests
+WARNING:kafka.client:Node 19 connection failed -- refreshing metadata
+INFO:kafka.conn:<BrokerConnection node_id=15 host=103.83.123.47/103.83.123.47 port=9092>: connecting to 103.83.123.47:9092
+INFO:kafka.conn:<BrokerConnection node_id=17 host=103.83.123.50/103.83.123.50 port=9092>: connecting to 103.83.123.50:9092
+INFO:kafka.conn:<BrokerConnection node_id=11 host=103.83.123.36/103.83.123.36 port=9092>: connecting to 103.83.123.36:9092
+INFO:kafka.conn:<BrokerConnection node_id=12 host=103.83.123.31/103.83.123.31 port=9092>: connecting to 103.83.123.31:9092
+WARNING:kafka.client:<BrokerConnection node_id=9 host=103.83.123.8/103.83.123.8 port=9092> timed out after 40000 ms. Closing connection.
+INFO:kafka.conn:<BrokerConnection node_id=9 host=103.83.123.8/103.83.123.8 port=9092>: Closing connection. [Error 7] RequestTimedOutError: Request timed out after 40000 ms
+WARNING:kafka.client:Node 9 connection failed -- refreshing metadata
+ERROR:kafka.consumer.fetcher:Fetch to node 9 failed: [Error 7] RequestTimedOutError: Request timed out after 40000 ms
+INFO:kafka.conn:<BrokerConnection node_id=9 host=103.83.123.8/103.83.123.8 port=9092>: connecting to 103.83.123.8:9092
+INFO:kafka.conn:<BrokerConnection node_id=11 host=103.83.123.36/103.83.123.36 port=9092>: Closing connection. ConnectionError: Socket EVENT_READ without in-flight-requests
+WARNING:kafka.client:Node 11 connection failed -- refreshing metadata
+INFO:kafka.conn:<BrokerConnection node_id=12 host=103.83.123.31/103.83.123.31 port=9092>: Closing connection. ConnectionError: Socket EVENT_READ without in-flight-requests
+WARNING:kafka.client:Node 12 connection failed -- refreshing metadata
+WARNING:kafka.client:<BrokerConnection node_id=15 host=103.83.123.47/103.83.123.47 port=9092> timed out after 40000 ms. Closing connection.
+INFO:kafka.conn:<BrokerConnection node_id=15 host=103.83.123.47/103.83.123.47 port=9092>: Closing connection. [Error 7] RequestTimedOutError: Request timed out after 40000 ms
+WARNING:kafka.client:Node 15 connection failed -- refreshing metadata
